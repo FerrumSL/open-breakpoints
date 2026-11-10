@@ -1,0 +1,41 @@
+sheet	row	label	what	proposed	reviewer	decision	date
+Enterobacteriaceae	9	Ampicillin	footnote marks: 1 A,B B	values as printed; read the footnotes			
+Enterobacteriaceae	10	Ampicillin-sulbactam	footnote marks: 1,2 2 A,B B	values as printed; read the footnotes			
+Enterobacteriaceae	11	Amoxicillin	footnote marks: 1 C	values as printed; read the footnotes			
+Enterobacteriaceae	11	Amoxicillin	only MIC has numbers; the other side prints: Note	MIC row only			
+Enterobacteriaceae	12	Amoxicillin-clavulanate	footnote marks: 1,3 3 A,B B	values as printed; read the footnotes			
+Enterobacteriaceae	14	Piperacillin-tazobactam	footnote marks: 4	values as printed; read the footnotes			
+Enterobacteriaceae	16	Ticarcillin-clavulanate	footnote marks: 3	values as printed; read the footnotes			
+Enterobacteriaceae	16	Ticarcillin-clavulanate	disk content: source prints 75-10; WHONET's label used	POTENCY = 75/10-15µg			
+Enterobacteriaceae	25	Mecillinam (uncomplicated UTI only)	Footnote: E. coli, Klebsiella spp. and P. mirabilis only. WHONET's EUCAST 2013 rows use eco, kpn, pmi	rows for eco,kpn,pmi			
+Enterobacteriaceae	25	Mecillinam (uncomplicated UTI only)	qualifier in the drug name: (uncomplicated UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	25	Mecillinam (uncomplicated UTI only)	footnote marks: 5 E,F	values as printed; read the footnotes			
+Enterobacteriaceae	32	Cefadroxil (uncomplicated UTI only)	qualifier in the drug name: (uncomplicated UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	33	Cefalexin (uncomplicated UTI only)	qualifier in the drug name: (uncomplicated UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	36	Cefixime (uncomplicated UTI only)	qualifier in the drug name: (uncomplicated UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	38	Cefoxitin (screen)	qualifier in the drug name: (screen)	no SITE_OF_INFECTION			
+Enterobacteriaceae	38	Cefoxitin (screen)	footnote marks: 2	values as printed; read the footnotes			
+Enterobacteriaceae	38	Cefoxitin (screen)	only disk has numbers; the other side prints: NA	disk row only			
+Enterobacteriaceae	39	Cefpodoxime (uncomplicated UTI only)	qualifier in the drug name: (uncomplicated UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	41	Ceftibuten (UTI only)	qualifier in the drug name: (UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	43	Cefuroxime	Footnote 3 (MIC): the breakpoint relates to E. coli, P. mirabilis and Klebsiella spp. only. WHONET's EUCAST 2013 rows use the family (EBC)	family row kept; reviewer decides			
+Enterobacteriaceae	43	Cefuroxime	footnote marks: 3	values as printed; read the footnotes			
+Enterobacteriaceae	44	Cefuroxime axetil (uncomplicated UTI only)	qualifier in the drug name: (uncomplicated UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	52	Imipenem	footnote marks: 2	values as printed; read the footnotes			
+Enterobacteriaceae	59	Aztreonam	footnote marks: 1	values as printed; read the footnotes			
+Enterobacteriaceae	65	Ciprofloxacin1	drug name printed as 'Ciprofloxacin1': the trailing digit is read as a footnote mark	drug Ciprofloxacin			
+Enterobacteriaceae	68	Nalidixic acid (screen)	no numeric breakpoint: NA	no row			
+Enterobacteriaceae	109	Tigecycline	Footnote A (zone): zone diameter breakpoints validated for E. coli only; for other Enterobacteriaceae use an MIC method. WHONET's EUCAST 2013 disk row uses the family (EBC)	family row kept; reviewer decides			
+Enterobacteriaceae	109	Tigecycline	footnote marks: 1 A	values as printed; read the footnotes			
+Enterobacteriaceae	116	Colistin	footnote marks: A	values as printed; read the footnotes			
+Enterobacteriaceae	116	Colistin	only MIC has numbers; the other side prints: Note	MIC row only			
+Enterobacteriaceae	118	Fosfomycin iv	route or salt in the drug name	code FOS			
+Enterobacteriaceae	118	Fosfomycin iv	only MIC has numbers; the other side prints: -	MIC row only			
+Enterobacteriaceae	119	Fosfomycin-trometamol (uncomplicated UTI only)	qualifier in the drug name: (uncomplicated UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	119	Fosfomycin-trometamol (uncomplicated UTI only)	route or salt in the drug name	code FOS			
+Enterobacteriaceae	119	Fosfomycin-trometamol (uncomplicated UTI only)	only MIC has numbers; the other side prints: -	MIC row only			
+Enterobacteriaceae	124	Nitrofurantoin (uncomplicated UTI only)	Footnote 1/B: breakpoints relate to E. coli only. WHONET's EUCAST 2013 rows use the family (EBC)	family row kept; reviewer decides			
+Enterobacteriaceae	124	Nitrofurantoin (uncomplicated UTI only)	qualifier in the drug name: (uncomplicated UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	124	Nitrofurantoin (uncomplicated UTI only)	footnote marks: 1 B	values as printed; read the footnotes			
+Enterobacteriaceae	127	Trimethoprim (uncomplicated UTI only)	qualifier in the drug name: (uncomplicated UTI only)	SITE_OF_INFECTION = Uncomplicated urinary tract infection			
+Enterobacteriaceae	128	Trimethoprim-sulfamethoxazole	footnote marks: 2	values as printed; read the footnotes			

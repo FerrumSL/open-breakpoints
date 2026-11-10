@@ -1,0 +1,15 @@
+name: check
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+      - run: Rscript -e 'install.packages("jsonlite")'
+      # The pinned WHONET files, so that the tests on real data run too.
+      - run: make whonet whonet-lists
+      - run: make check
+      # The audit results in out/ must be what the scripts produce.
+      - run: make coverage links scale
+      - run: git diff --exit-code -- out

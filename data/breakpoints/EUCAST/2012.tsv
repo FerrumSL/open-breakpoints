@@ -1,0 +1,86 @@
+GUIDELINES	YEAR	TEST_METHOD	POTENCY	ORGANISM_CODE	ORGANISM_CODE_TYPE	BREAKPOINT_TYPE	HOST	SITE_OF_INFECTION	REFERENCE_TABLE	REFERENCE_SEQUENCE	WHONET_ABX_CODE	WHONET_TEST	R	I	SDD	S	ECV_ECOFF	ECV_ECOFF_TENTATIVE	DATE_ENTERED	DATE_MODIFIED	COMMENTS	SOURCE_ID	SOURCE_LOCATOR	STATUS
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		AMP	AMP_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 9	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		AMP	AMP_ED10	13	-		14			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 9	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		SAM	SAM_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 10	draft
+EUCAST	2012	DISK	10/10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		SAM	SAM_ED10	13	-		14			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 10	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		AMX	AMX_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 11	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		AMC	AMC_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 12	draft
+EUCAST	2012	DISK	20/10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		AMC	AMC_ED20	16	-		17			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 12	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		PIP	PIP_EM	32			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 13	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		PIP	PIP_ED30	14	15-17		18			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 13	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TZP	TZP_EM	32			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 14	draft
+EUCAST	2012	DISK	30/6µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TZP	TZP_ED30	16	17-19		20			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 14	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TIC	TIC_EM	32			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 15	draft
+EUCAST	2012	DISK	75µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TIC	TIC_ED75	22	-		23			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 15	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TCC	TCC_EM	32			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 16	draft
+EUCAST	2012	DISK	75/10-15µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TCC	TCC_ED75	22	-		23			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 16	draft
+EUCAST	2012	MIC		eco	WHONET_ORG_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		MEC	MEC_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 25	draft
+EUCAST	2012	MIC		kpn	WHONET_ORG_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		MEC	MEC_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 25	draft
+EUCAST	2012	MIC		pmi	WHONET_ORG_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		MEC	MEC_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 25	draft
+EUCAST	2012	DISK	10µg	eco	WHONET_ORG_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		MEC	MEC_ED10	14	-		15			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 25	draft
+EUCAST	2012	DISK	10µg	kpn	WHONET_ORG_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		MEC	MEC_ED10	14	-		15			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 25	draft
+EUCAST	2012	DISK	10µg	pmi	WHONET_ORG_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		MEC	MEC_ED10	14	-		15			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 25	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CFR	CFR_EM	32			16			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 32	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CFR	CFR_ED30	11	-		12			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 32	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		LEX	LEX_EM	32			16			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 33	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		LEX	LEX_ED30	11	-		12			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 33	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		FEP	FEP_EM	8			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 35	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		FEP	FEP_ED30	20	21-23		24			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 35	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CFM	CFM_EM	2			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 36	draft
+EUCAST	2012	DISK	5µg	EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CFM	CFM_ED5	16	-		17			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 36	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CTX	CTX_EM	4			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 37	draft
+EUCAST	2012	DISK	5µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CTX	CTX_ED5	16	17-19		20			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 37	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		FOX	FOX_ED30	18	-		19			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 38	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CPD	CPD_EM	2			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 39	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CPD	CPD_ED10	20	-		21			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 39	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CAZ	CAZ_EM	8			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 40	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CAZ	CAZ_ED10	18	19-21		22			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 40	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CTB	CTB_EM	2			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 41	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CTB	CTB_ED30	22	-		23			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 41	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CRO	CRO_EM	4			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 42	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CRO	CRO_ED30	19	20-22		23			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 42	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CXM	CXM_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 43	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CXM	CXM_ED30	17	-		18			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 43	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CXA	CXA_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 44	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		CXA	CXA_ED30	17	-		18			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 44	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		DOR	DOR_EM	8			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 50	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		DOR	DOR_ED10	17	18-23		24			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 50	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		ETP	ETP_EM	2			0.5			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 51	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		ETP	ETP_ED10	21	22-24		25			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 51	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		IPM	IPM_EM	16			2			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 52	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		IPM	IPM_ED10	15	16-21		22			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 52	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		MEM	MEM_EM	16			2			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 53	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		MEM	MEM_ED10	15	16-21		22			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 53	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		ATM	ATM_EM	8			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 59	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		ATM	ATM_ED30	23	24-26		27			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 59	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CIP	CIP_EM	2			0.5			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 65	draft
+EUCAST	2012	DISK	5µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CIP	CIP_ED5	18	19-21		22			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 65	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		LVX	LVX_EM	4			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 66	draft
+EUCAST	2012	DISK	5µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		LVX	LVX_ED5	18	19-21		22			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 66	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		MFX	MFX_EM	2			0.5			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 67	draft
+EUCAST	2012	DISK	5µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		MFX	MFX_ED5	16	17-19		20			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 67	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		NOR	NOR_EM	2			0.5			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 69	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		NOR	NOR_ED10	18	19-21		22			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 69	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		OFX	OFX_EM	2			0.5			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 70	draft
+EUCAST	2012	DISK	5µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		OFX	OFX_ED5	18	19-21		22			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 70	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		AMK	AMK_EM	32			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 76	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		AMK	AMK_ED30	12	13-15		16			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 76	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		GEN	GEN_EM	8			2			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 77	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		GEN	GEN_ED10	13	14-16		17			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 77	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		NET	NET_EM	8			2			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 78	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		NET	NET_ED10	11	12-14		15			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 78	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TOB	TOB_EM	8			2			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 79	draft
+EUCAST	2012	DISK	10µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TOB	TOB_ED10	13	14-16		17			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 79	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TGC	TGC_EM	4			1			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 109	draft
+EUCAST	2012	DISK	15µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		TGC	TGC_ED15	14	15-17		18			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 109	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CHL	CHL_EM	16			8			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 115	draft
+EUCAST	2012	DISK	30µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		CHL	CHL_ED30	16	-		17			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 115	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		COL	COL_EM	4			2			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 116	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		FOS	FOS_EM	64			32			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 118	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		FOS	FOS_EM	64			32			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 119	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		NIT	NIT_EM	128			64			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 124	draft
+EUCAST	2012	DISK	100µg	EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		NIT	NIT_ED100	10	-		11			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 124	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		TMP	TMP_EM	8			2			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 127	draft
+EUCAST	2012	DISK	5µg	EBC	FAMILY_CODE	Human	Human	Uncomplicated urinary tract infection	Enterobacteriaceae		TMP	TMP_ED5	14	15-17		18			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 127	draft
+EUCAST	2012	MIC		EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		SXT	SXT_EM	8			2			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 128	draft
+EUCAST	2012	DISK	1.25/23.75µg	EBC	FAMILY_CODE	Human	Human		Enterobacteriaceae		SXT	SXT_ED1_2	12	13-15		16			2026-11-10			eucast-2.0-xls	sheet Enterobacteriaceae, row 128	draft

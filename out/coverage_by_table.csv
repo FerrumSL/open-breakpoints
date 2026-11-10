@@ -1,0 +1,1020 @@
+"GUIDELINES","YEAR","REFERENCE_TABLE","rows","mic_rows","disk_rows","drugs","organism_codes"
+"CLSI",2011,"",858,526,332,86,48
+"CLSI",2011,"M45 Table 1",7,7,0,7,1
+"CLSI",2012,"",4,1,3,2,3
+"CLSI",2012,"M45 Table 1",34,34,0,14,3
+"CLSI",2012,"M45 Table 10",5,5,0,5,1
+"CLSI",2012,"M45 Table 11",5,3,2,3,1
+"CLSI",2012,"M45 Table 12",22,16,6,16,1
+"CLSI",2012,"M45 Table 13",25,13,12,13,1
+"CLSI",2012,"M45 Table 14",7,7,0,7,2
+"CLSI",2012,"M45 Table 16",49,49,0,21,6
+"CLSI",2012,"M45 Table 2",82,42,40,21,2
+"CLSI",2012,"M45 Table 3",22,22,0,19,2
+"CLSI",2012,"M45 Table 5",18,18,0,18,1
+"CLSI",2012,"M45 Table 6",12,12,0,12,1
+"CLSI",2012,"M45 Table 7",61,61,0,16,4
+"CLSI",2012,"M45 Table 8",1,1,0,1,1
+"CLSI",2012,"M45 Table 9",9,9,0,9,1
+"CLSI",2012,"Table 2A",6,3,3,1,2
+"CLSI",2012,"Table 2B-1",44,22,22,22,1
+"CLSI",2012,"Table 2B-2",52,26,26,26,1
+"CLSI",2012,"Table 2B-3",14,7,7,7,1
+"CLSI",2012,"Table 2B-4",12,6,6,6,1
+"CLSI",2012,"Table 2B-5",72,72,0,36,1
+"CLSI",2012,"Table 2C",155,78,77,72,3
+"CLSI",2012,"Table 2D",44,23,21,23,1
+"CLSI",2012,"Table 2E",88,44,44,44,1
+"CLSI",2012,"Table 2F",46,23,23,23,1
+"CLSI",2012,"Table 2G",93,49,44,45,1
+"CLSI",2012,"Table 2H-1",67,34,33,34,1
+"CLSI",2012,"Table 2H-2",48,24,24,24,1
+"CLSI",2012,"Table 2I",32,16,16,16,1
+"CLSI",2012,"Table 2J",25,25,0,25,1
+"CLSI",2012,"Vet Table",9,3,6,3,4
+"CLSI",2013,"",4,1,3,2,3
+"CLSI",2013,"M45 Table 1",34,34,0,14,3
+"CLSI",2013,"M45 Table 10",5,5,0,5,1
+"CLSI",2013,"M45 Table 11",5,3,2,3,1
+"CLSI",2013,"M45 Table 12",22,16,6,16,1
+"CLSI",2013,"M45 Table 13",25,13,12,13,1
+"CLSI",2013,"M45 Table 14",7,7,0,7,2
+"CLSI",2013,"M45 Table 16",49,49,0,21,6
+"CLSI",2013,"M45 Table 2",82,42,40,21,2
+"CLSI",2013,"M45 Table 3",22,22,0,19,2
+"CLSI",2013,"M45 Table 5",18,18,0,18,1
+"CLSI",2013,"M45 Table 6",12,12,0,12,1
+"CLSI",2013,"M45 Table 7",61,61,0,16,4
+"CLSI",2013,"M45 Table 8",1,1,0,1,1
+"CLSI",2013,"M45 Table 9",9,9,0,9,1
+"CLSI",2013,"Table 2A",8,5,3,3,1
+"CLSI",2013,"Table 2B-1",44,22,22,22,1
+"CLSI",2013,"Table 2B-2",52,26,26,26,1
+"CLSI",2013,"Table 2B-3",14,7,7,7,1
+"CLSI",2013,"Table 2B-4",12,6,6,6,1
+"CLSI",2013,"Table 2B-5",72,72,0,36,1
+"CLSI",2013,"Table 2C",81,41,40,36,3
+"CLSI",2013,"Table 2D",44,23,21,23,1
+"CLSI",2013,"Table 2E",92,46,46,45,2
+"CLSI",2013,"Table 2F",46,23,23,23,1
+"CLSI",2013,"Table 2G",99,52,47,47,1
+"CLSI",2013,"Table 2H-1",69,35,34,35,1
+"CLSI",2013,"Table 2H-2",48,24,24,24,1
+"CLSI",2013,"Table 2I",32,16,16,16,1
+"CLSI",2013,"Table 2J",25,25,0,25,1
+"CLSI",2013,"Vet Table",9,3,6,3,4
+"CLSI",2014,"",4,1,3,2,3
+"CLSI",2014,"M45 Table 1",35,35,0,14,3
+"CLSI",2014,"M45 Table 10",5,5,0,5,1
+"CLSI",2014,"M45 Table 11",5,3,2,3,1
+"CLSI",2014,"M45 Table 12",22,16,6,16,1
+"CLSI",2014,"M45 Table 13",25,13,12,13,1
+"CLSI",2014,"M45 Table 14",7,7,0,7,2
+"CLSI",2014,"M45 Table 16",49,49,0,21,6
+"CLSI",2014,"M45 Table 2",82,42,40,21,2
+"CLSI",2014,"M45 Table 3",22,22,0,19,2
+"CLSI",2014,"M45 Table 5",18,18,0,18,1
+"CLSI",2014,"M45 Table 6",12,12,0,12,1
+"CLSI",2014,"M45 Table 7",61,61,0,16,4
+"CLSI",2014,"M45 Table 8",1,1,0,1,1
+"CLSI",2014,"M45 Table 9",9,9,0,9,1
+"CLSI",2014,"Table 2A",10,7,3,4,2
+"CLSI",2014,"Table 2B-1",44,22,22,22,1
+"CLSI",2014,"Table 2B-2",54,27,27,27,1
+"CLSI",2014,"Table 2B-3",14,7,7,7,1
+"CLSI",2014,"Table 2B-4",12,6,6,6,1
+"CLSI",2014,"Table 2B-5",72,72,0,36,1
+"CLSI",2014,"Table 2C",81,41,40,36,3
+"CLSI",2014,"Table 2D",44,23,21,23,1
+"CLSI",2014,"Table 2E",92,46,46,45,2
+"CLSI",2014,"Table 2F",46,23,23,23,1
+"CLSI",2014,"Table 2G",99,52,47,47,1
+"CLSI",2014,"Table 2H-1",69,35,34,35,1
+"CLSI",2014,"Table 2H-2",48,24,24,24,1
+"CLSI",2014,"Table 2I",32,16,16,16,1
+"CLSI",2014,"Table 2J",25,25,0,25,1
+"CLSI",2014,"Vet Table",9,3,6,3,4
+"CLSI",2015,"",4,1,3,2,3
+"CLSI",2015,"M45 Table 1",35,35,0,14,3
+"CLSI",2015,"M45 Table 10",5,5,0,5,1
+"CLSI",2015,"M45 Table 11",5,3,2,3,1
+"CLSI",2015,"M45 Table 12",22,16,6,16,1
+"CLSI",2015,"M45 Table 13",25,13,12,13,1
+"CLSI",2015,"M45 Table 14",7,7,0,7,2
+"CLSI",2015,"M45 Table 16",49,49,0,21,6
+"CLSI",2015,"M45 Table 2",82,42,40,21,2
+"CLSI",2015,"M45 Table 3",22,22,0,19,2
+"CLSI",2015,"M45 Table 5",18,18,0,18,1
+"CLSI",2015,"M45 Table 6",12,12,0,12,1
+"CLSI",2015,"M45 Table 7",61,61,0,16,4
+"CLSI",2015,"M45 Table 8",1,1,0,1,1
+"CLSI",2015,"M45 Table 9",9,9,0,9,1
+"CLSI",2015,"Table 2A",13,8,5,6,3
+"CLSI",2015,"Table 2B-1",44,22,22,22,1
+"CLSI",2015,"Table 2B-2",54,27,27,27,1
+"CLSI",2015,"Table 2B-3",14,7,7,7,1
+"CLSI",2015,"Table 2B-4",12,6,6,6,1
+"CLSI",2015,"Table 2B-5",72,72,0,36,1
+"CLSI",2015,"Table 2C",81,41,40,36,3
+"CLSI",2015,"Table 2D",44,23,21,23,1
+"CLSI",2015,"Table 2E",92,46,46,45,2
+"CLSI",2015,"Table 2F",46,23,23,23,1
+"CLSI",2015,"Table 2G",99,52,47,47,1
+"CLSI",2015,"Table 2H-1",69,35,34,35,1
+"CLSI",2015,"Table 2H-2",48,24,24,24,1
+"CLSI",2015,"Table 2I",32,16,16,16,1
+"CLSI",2015,"Table 2J",25,25,0,25,1
+"CLSI",2015,"Table 2J-2",1,1,0,1,1
+"CLSI",2015,"Vet Table",9,3,6,3,4
+"CLSI",2016,"",6,2,4,3,4
+"CLSI",2016,"M45 Table 1",35,35,0,14,3
+"CLSI",2016,"M45 Table 10",5,5,0,5,1
+"CLSI",2016,"M45 Table 11",5,3,2,3,1
+"CLSI",2016,"M45 Table 12",22,16,6,16,1
+"CLSI",2016,"M45 Table 13",25,13,12,13,1
+"CLSI",2016,"M45 Table 14",7,7,0,7,2
+"CLSI",2016,"M45 Table 16",49,49,0,21,6
+"CLSI",2016,"M45 Table 2",82,42,40,21,2
+"CLSI",2016,"M45 Table 3",22,22,0,19,2
+"CLSI",2016,"M45 Table 5",18,18,0,18,1
+"CLSI",2016,"M45 Table 6",12,12,0,12,1
+"CLSI",2016,"M45 Table 7",61,61,0,16,4
+"CLSI",2016,"M45 Table 8",1,1,0,1,1
+"CLSI",2016,"M45 Table 9",9,9,0,9,1
+"CLSI",2016,"Table 2A",13,8,5,6,3
+"CLSI",2016,"Table 2B-1",42,21,21,21,1
+"CLSI",2016,"Table 2B-2",50,25,25,25,1
+"CLSI",2016,"Table 2B-3",14,7,7,7,1
+"CLSI",2016,"Table 2B-4",12,6,6,6,1
+"CLSI",2016,"Table 2B-5",68,68,0,34,1
+"CLSI",2016,"Table 2C",83,42,41,36,4
+"CLSI",2016,"Table 2D",48,26,22,26,1
+"CLSI",2016,"Table 2E",92,46,46,45,2
+"CLSI",2016,"Table 2F",46,23,23,23,1
+"CLSI",2016,"Table 2G",99,52,47,47,1
+"CLSI",2016,"Table 2H-1",73,38,35,38,1
+"CLSI",2016,"Table 2H-2",53,28,25,28,1
+"CLSI",2016,"Table 2I",32,16,16,16,1
+"CLSI",2016,"Table 2J",23,23,0,23,1
+"CLSI",2016,"Table 2J-2",1,1,0,1,1
+"CLSI",2016,"Vet Table",9,3,6,3,4
+"CLSI",2017,"",6,2,4,3,4
+"CLSI",2017,"M45 Table 1",35,35,0,14,3
+"CLSI",2017,"M45 Table 10",5,5,0,5,1
+"CLSI",2017,"M45 Table 11",5,3,2,3,1
+"CLSI",2017,"M45 Table 12",22,16,6,16,1
+"CLSI",2017,"M45 Table 13",25,13,12,13,1
+"CLSI",2017,"M45 Table 14",7,7,0,7,2
+"CLSI",2017,"M45 Table 16",49,49,0,21,6
+"CLSI",2017,"M45 Table 2",82,42,40,21,2
+"CLSI",2017,"M45 Table 3",22,22,0,19,2
+"CLSI",2017,"M45 Table 5",18,18,0,18,1
+"CLSI",2017,"M45 Table 6",12,12,0,12,1
+"CLSI",2017,"M45 Table 7",61,61,0,16,4
+"CLSI",2017,"M45 Table 8",1,1,0,1,1
+"CLSI",2017,"M45 Table 9",9,9,0,9,1
+"CLSI",2017,"Table 2A",13,8,5,6,3
+"CLSI",2017,"Table 2B-1",40,21,19,21,1
+"CLSI",2017,"Table 2B-2",50,25,25,25,1
+"CLSI",2017,"Table 2B-3",14,7,7,7,1
+"CLSI",2017,"Table 2B-4",12,6,6,6,1
+"CLSI",2017,"Table 2B-5",66,66,0,33,1
+"CLSI",2017,"Table 2C",83,42,41,36,4
+"CLSI",2017,"Table 2D",47,26,21,26,1
+"CLSI",2017,"Table 2E",92,46,46,45,2
+"CLSI",2017,"Table 2F",46,23,23,23,1
+"CLSI",2017,"Table 2G",99,52,47,47,1
+"CLSI",2017,"Table 2H-1",72,38,34,38,1
+"CLSI",2017,"Table 2H-2",52,28,24,28,1
+"CLSI",2017,"Table 2I",32,16,16,16,1
+"CLSI",2017,"Table 2J",23,23,0,23,1
+"CLSI",2017,"Table 2J-2",1,1,0,1,1
+"CLSI",2017,"Vet Table",9,3,6,3,4
+"CLSI",2018,"",6,2,4,3,4
+"CLSI",2018,"M45 Table 1",35,35,0,14,3
+"CLSI",2018,"M45 Table 10",5,5,0,5,1
+"CLSI",2018,"M45 Table 11",5,3,2,3,1
+"CLSI",2018,"M45 Table 12",22,16,6,16,1
+"CLSI",2018,"M45 Table 13",25,13,12,13,1
+"CLSI",2018,"M45 Table 14",7,7,0,7,2
+"CLSI",2018,"M45 Table 16",49,49,0,21,6
+"CLSI",2018,"M45 Table 2",82,42,40,21,2
+"CLSI",2018,"M45 Table 3",22,22,0,19,2
+"CLSI",2018,"M45 Table 5",18,18,0,18,1
+"CLSI",2018,"M45 Table 6",12,12,0,12,1
+"CLSI",2018,"M45 Table 7",61,61,0,16,4
+"CLSI",2018,"M45 Table 8",1,1,0,1,1
+"CLSI",2018,"M45 Table 9",9,9,0,9,1
+"CLSI",2018,"Table 2A",13,8,5,6,3
+"CLSI",2018,"Table 2B-1",42,22,20,22,1
+"CLSI",2018,"Table 2B-2",50,25,25,25,1
+"CLSI",2018,"Table 2B-3",28,14,14,7,2
+"CLSI",2018,"Table 2B-4",12,6,6,6,1
+"CLSI",2018,"Table 2B-5",66,66,0,33,1
+"CLSI",2018,"Table 2C",85,43,42,36,5
+"CLSI",2018,"Table 2D",48,27,21,27,2
+"CLSI",2018,"Table 2E",92,46,46,45,2
+"CLSI",2018,"Table 2F",46,23,23,23,1
+"CLSI",2018,"Table 2G",99,52,47,47,1
+"CLSI",2018,"Table 2H-1",73,39,34,39,1
+"CLSI",2018,"Table 2H-2",53,29,24,29,1
+"CLSI",2018,"Table 2I",32,16,16,16,1
+"CLSI",2018,"Table 2J",23,23,0,23,1
+"CLSI",2018,"Table 2J-2",1,1,0,1,1
+"CLSI",2018,"Vet Table",9,3,6,3,4
+"CLSI",2019,"",5,1,4,3,4
+"CLSI",2019,"M45 Table 1",40,40,0,14,3
+"CLSI",2019,"M45 Table 10",1,1,0,1,1
+"CLSI",2019,"M45 Table 11",10,10,0,10,1
+"CLSI",2019,"M45 Table 12",10,10,0,10,1
+"CLSI",2019,"M45 Table 13",4,4,0,4,1
+"CLSI",2019,"M45 Table 14",4,4,0,4,1
+"CLSI",2019,"M45 Table 15",4,4,0,4,1
+"CLSI",2019,"M45 Table 16",22,16,6,16,1
+"CLSI",2019,"M45 Table 17",25,13,12,13,1
+"CLSI",2019,"M45 Table 18",4,4,0,4,1
+"CLSI",2019,"M45 Table 19",6,6,0,6,1
+"CLSI",2019,"M45 Table 2",30,10,20,23,2
+"CLSI",2019,"M45 Table 20",47,24,23,26,1
+"CLSI",2019,"M45 Table 21",35,35,0,13,6
+"CLSI",2019,"M45 Table 3",38,19,19,19,1
+"CLSI",2019,"M45 Table 4",15,15,0,15,1
+"CLSI",2019,"M45 Table 5",7,4,3,4,1
+"CLSI",2019,"M45 Table 6",17,17,0,17,1
+"CLSI",2019,"M45 Table 8",8,8,0,8,1
+"CLSI",2019,"M45 Table 9",64,64,0,16,4
+"CLSI",2019,"Table 1",45,26,19,5,6
+"CLSI",2019,"Table 2A",19,11,8,7,5
+"CLSI",2019,"Table 2B-1",43,23,20,23,1
+"CLSI",2019,"Table 2B-2",51,26,25,26,1
+"CLSI",2019,"Table 2B-3",28,14,14,7,2
+"CLSI",2019,"Table 2B-4",13,7,6,7,1
+"CLSI",2019,"Table 2B-5",64,64,0,32,1
+"CLSI",2019,"Table 2C",98,56,42,39,7
+"CLSI",2019,"Table 2D",46,27,19,26,3
+"CLSI",2019,"Table 2E",90,45,45,44,2
+"CLSI",2019,"Table 2F",31,16,15,16,1
+"CLSI",2019,"Table 2G",97,51,46,46,1
+"CLSI",2019,"Table 2H-1",73,39,34,39,1
+"CLSI",2019,"Table 2H-2",53,29,24,29,1
+"CLSI",2019,"Table 2I",32,16,16,16,1
+"CLSI",2019,"Table 2J",23,23,0,23,1
+"CLSI",2019,"Table 2J-2",1,1,0,1,1
+"CLSI",2019,"Vet Table",9,3,6,3,4
+"CLSI",2020,"",5,1,4,3,4
+"CLSI",2020,"M45 Table 1",40,40,0,14,3
+"CLSI",2020,"M45 Table 10",1,1,0,1,1
+"CLSI",2020,"M45 Table 11",10,10,0,10,1
+"CLSI",2020,"M45 Table 12",10,10,0,10,1
+"CLSI",2020,"M45 Table 13",4,4,0,4,1
+"CLSI",2020,"M45 Table 14",4,4,0,4,1
+"CLSI",2020,"M45 Table 15",4,4,0,4,1
+"CLSI",2020,"M45 Table 16",22,16,6,16,1
+"CLSI",2020,"M45 Table 17",25,13,12,13,1
+"CLSI",2020,"M45 Table 18",4,4,0,4,1
+"CLSI",2020,"M45 Table 19",6,6,0,6,1
+"CLSI",2020,"M45 Table 2",30,10,20,23,2
+"CLSI",2020,"M45 Table 20",47,24,23,26,1
+"CLSI",2020,"M45 Table 21",35,35,0,13,6
+"CLSI",2020,"M45 Table 3",20,19,1,19,1
+"CLSI",2020,"M45 Table 4",15,15,0,15,1
+"CLSI",2020,"M45 Table 5",7,4,3,4,1
+"CLSI",2020,"M45 Table 6",17,17,0,17,1
+"CLSI",2020,"M45 Table 8",8,8,0,8,1
+"CLSI",2020,"M45 Table 9",64,64,0,16,4
+"CLSI",2020,"Table 1",45,26,19,5,6
+"CLSI",2020,"Table 2A",150,76,74,72,6
+"CLSI",2020,"Table 2B-1",48,24,24,24,1
+"CLSI",2020,"Table 2B-2",52,26,26,26,1
+"CLSI",2020,"Table 2B-3",28,14,14,7,2
+"CLSI",2020,"Table 2B-4",14,7,7,7,1
+"CLSI",2020,"Table 2B-5",31,31,0,31,1
+"CLSI",2020,"Table 2C",102,57,45,41,7
+"CLSI",2020,"Table 2D",48,28,20,27,3
+"CLSI",2020,"Table 2E",88,44,44,44,2
+"CLSI",2020,"Table 2F",31,16,15,16,1
+"CLSI",2020,"Table 2G",96,50,46,46,1
+"CLSI",2020,"Table 2H-1",73,39,34,39,1
+"CLSI",2020,"Table 2H-2",53,29,24,29,1
+"CLSI",2020,"Table 2I",32,16,16,16,1
+"CLSI",2020,"Table 2J",23,23,0,23,1
+"CLSI",2020,"Table 2J-2",1,1,0,1,1
+"CLSI",2020,"Vet Table",9,3,6,3,4
+"CLSI",2021,"",2,1,1,1,1
+"CLSI",2021,"M45 Table 1",40,40,0,14,3
+"CLSI",2021,"M45 Table 10",1,1,0,1,1
+"CLSI",2021,"M45 Table 11",10,10,0,10,1
+"CLSI",2021,"M45 Table 12",10,10,0,10,1
+"CLSI",2021,"M45 Table 13",4,4,0,4,1
+"CLSI",2021,"M45 Table 14",4,4,0,4,1
+"CLSI",2021,"M45 Table 15",4,4,0,4,1
+"CLSI",2021,"M45 Table 16",22,16,6,16,1
+"CLSI",2021,"M45 Table 17",25,13,12,13,1
+"CLSI",2021,"M45 Table 18",4,4,0,4,1
+"CLSI",2021,"M45 Table 19",6,6,0,6,1
+"CLSI",2021,"M45 Table 2",30,10,20,23,2
+"CLSI",2021,"M45 Table 20",47,24,23,26,1
+"CLSI",2021,"M45 Table 21",35,35,0,13,6
+"CLSI",2021,"M45 Table 3",20,19,1,19,1
+"CLSI",2021,"M45 Table 4",15,15,0,15,1
+"CLSI",2021,"M45 Table 5",7,4,3,4,1
+"CLSI",2021,"M45 Table 6",17,17,0,17,1
+"CLSI",2021,"M45 Table 8",8,8,0,8,1
+"CLSI",2021,"M45 Table 9",64,64,0,16,4
+"CLSI",2021,"M61 Table 1",2,2,0,1,2
+"CLSI",2021,"Table 1",45,26,19,5,6
+"CLSI",2021,"Table 2A",154,78,76,73,7
+"CLSI",2021,"Table 2B-1",50,25,25,25,1
+"CLSI",2021,"Table 2B-2",52,26,26,26,1
+"CLSI",2021,"Table 2B-3",28,14,14,7,2
+"CLSI",2021,"Table 2B-4",14,7,7,7,1
+"CLSI",2021,"Table 2B-5",31,31,0,31,1
+"CLSI",2021,"Table 2C",105,59,46,42,7
+"CLSI",2021,"Table 2D",48,28,20,27,3
+"CLSI",2021,"Table 2E",91,46,45,46,2
+"CLSI",2021,"Table 2F",32,16,16,16,1
+"CLSI",2021,"Table 2G",98,51,47,47,1
+"CLSI",2021,"Table 2H-1",73,39,34,39,1
+"CLSI",2021,"Table 2H-2",53,29,24,29,1
+"CLSI",2021,"Table 2I",32,16,16,16,1
+"CLSI",2021,"Table 2J",23,23,0,23,1
+"CLSI",2021,"Table 2J-2",1,1,0,1,1
+"CLSI",2022,"",2,1,1,1,1
+"CLSI",2022,"M45 Table 1",40,40,0,14,3
+"CLSI",2022,"M45 Table 10",1,1,0,1,1
+"CLSI",2022,"M45 Table 11",10,10,0,10,1
+"CLSI",2022,"M45 Table 12",10,10,0,10,1
+"CLSI",2022,"M45 Table 13",4,4,0,4,1
+"CLSI",2022,"M45 Table 14",4,4,0,4,1
+"CLSI",2022,"M45 Table 15",4,4,0,4,1
+"CLSI",2022,"M45 Table 16",22,16,6,16,1
+"CLSI",2022,"M45 Table 17",25,13,12,13,1
+"CLSI",2022,"M45 Table 18",4,4,0,4,1
+"CLSI",2022,"M45 Table 19",6,6,0,6,1
+"CLSI",2022,"M45 Table 2",30,10,20,23,2
+"CLSI",2022,"M45 Table 20",47,24,23,26,1
+"CLSI",2022,"M45 Table 21",35,35,0,13,6
+"CLSI",2022,"M45 Table 3",20,19,1,19,1
+"CLSI",2022,"M45 Table 4",15,15,0,15,1
+"CLSI",2022,"M45 Table 5",7,4,3,4,1
+"CLSI",2022,"M45 Table 6",17,17,0,17,1
+"CLSI",2022,"M45 Table 8",8,8,0,8,1
+"CLSI",2022,"M45 Table 9",64,64,0,16,4
+"CLSI",2022,"M61 Table 1",2,2,0,1,2
+"CLSI",2022,"Table 1",45,26,19,5,6
+"CLSI",2022,"Table 2A",153,78,75,73,7
+"CLSI",2022,"Table 2B-1",50,25,25,25,1
+"CLSI",2022,"Table 2B-2",52,26,26,26,1
+"CLSI",2022,"Table 2B-3",28,14,14,7,2
+"CLSI",2022,"Table 2B-4",14,7,7,7,1
+"CLSI",2022,"Table 2B-5",31,31,0,31,1
+"CLSI",2022,"Table 2C",105,59,46,42,7
+"CLSI",2022,"Table 2D",48,28,20,27,3
+"CLSI",2022,"Table 2E",178,91,87,46,2
+"CLSI",2022,"Table 2F",32,16,16,16,1
+"CLSI",2022,"Table 2G",98,51,47,47,1
+"CLSI",2022,"Table 2H-1",73,39,34,39,1
+"CLSI",2022,"Table 2H-2",53,29,24,29,1
+"CLSI",2022,"Table 2I",32,16,16,16,1
+"CLSI",2022,"Table 2J",23,23,0,23,1
+"CLSI",2022,"Table 2J-2",1,1,0,1,1
+"CLSI",2022,"WHONET",6,3,3,3,1
+"CLSI",2023,"",2,1,1,1,1
+"CLSI",2023,"M24 Table 1",3,3,0,2,1
+"CLSI",2023,"M24 Table 3",5,5,0,4,1
+"CLSI",2023,"M24 Table 4",10,10,0,10,1
+"CLSI",2023,"M24 Table 5",10,10,0,10,1
+"CLSI",2023,"M24 Table 6",12,12,0,12,1
+"CLSI",2023,"M24 Table 7",112,112,0,14,8
+"CLSI",2023,"M27 Table 1",33,33,0,6,8
+"CLSI",2023,"M45 Table 1",40,40,0,14,3
+"CLSI",2023,"M45 Table 10",1,1,0,1,1
+"CLSI",2023,"M45 Table 11",10,10,0,10,1
+"CLSI",2023,"M45 Table 12",10,10,0,10,1
+"CLSI",2023,"M45 Table 13",4,4,0,4,1
+"CLSI",2023,"M45 Table 14",4,4,0,4,1
+"CLSI",2023,"M45 Table 15",4,4,0,4,1
+"CLSI",2023,"M45 Table 16",22,16,6,16,1
+"CLSI",2023,"M45 Table 17",25,13,12,13,1
+"CLSI",2023,"M45 Table 18",4,4,0,4,1
+"CLSI",2023,"M45 Table 19",6,6,0,6,1
+"CLSI",2023,"M45 Table 2",30,10,20,23,2
+"CLSI",2023,"M45 Table 20",47,24,23,26,1
+"CLSI",2023,"M45 Table 21",35,35,0,13,6
+"CLSI",2023,"M45 Table 3",20,19,1,19,1
+"CLSI",2023,"M45 Table 4",15,15,0,15,1
+"CLSI",2023,"M45 Table 5",7,4,3,4,1
+"CLSI",2023,"M45 Table 6",17,17,0,17,1
+"CLSI",2023,"M45 Table 8",8,8,0,8,1
+"CLSI",2023,"M45 Table 9",64,64,0,16,4
+"CLSI",2023,"M61 Table 1",2,2,0,1,2
+"CLSI",2023,"Table 1",19,0,19,4,6
+"CLSI",2023,"Table 2A",162,82,80,74,8
+"CLSI",2023,"Table 2B-1",50,25,25,25,1
+"CLSI",2023,"Table 2B-2",52,26,26,26,1
+"CLSI",2023,"Table 2B-3",28,14,14,7,2
+"CLSI",2023,"Table 2B-4",14,7,7,7,1
+"CLSI",2023,"Table 2B-5",31,31,0,31,1
+"CLSI",2023,"Table 2C",105,59,46,42,7
+"CLSI",2023,"Table 2D",48,28,20,27,3
+"CLSI",2023,"Table 2E",178,91,87,46,2
+"CLSI",2023,"Table 2F",32,16,16,16,1
+"CLSI",2023,"Table 2G",98,51,47,47,1
+"CLSI",2023,"Table 2H-1",73,39,34,39,1
+"CLSI",2023,"Table 2H-2",53,29,24,29,1
+"CLSI",2023,"Table 2I",32,16,16,16,1
+"CLSI",2023,"Table 2J",23,23,0,23,1
+"CLSI",2023,"Table 2J-2",1,1,0,1,1
+"CLSI",2023,"WHONET",6,3,3,3,1
+"CLSI",2024,"",2,1,1,1,1
+"CLSI",2024,"FDA",74,37,37,4,16
+"CLSI",2024,"M24 Table 1",3,3,0,2,1
+"CLSI",2024,"M24 Table 3",5,5,0,4,1
+"CLSI",2024,"M24 Table 4",10,10,0,10,1
+"CLSI",2024,"M24 Table 5",10,10,0,10,1
+"CLSI",2024,"M24 Table 6",12,12,0,12,1
+"CLSI",2024,"M24 Table 7",112,112,0,14,8
+"CLSI",2024,"M27 Table 1",33,33,0,6,8
+"CLSI",2024,"M45 Table 1",40,40,0,14,3
+"CLSI",2024,"M45 Table 10",1,1,0,1,1
+"CLSI",2024,"M45 Table 11",10,10,0,10,1
+"CLSI",2024,"M45 Table 12",10,10,0,10,1
+"CLSI",2024,"M45 Table 13",4,4,0,4,1
+"CLSI",2024,"M45 Table 14",4,4,0,4,1
+"CLSI",2024,"M45 Table 15",4,4,0,4,1
+"CLSI",2024,"M45 Table 16",22,16,6,16,1
+"CLSI",2024,"M45 Table 17",25,13,12,13,1
+"CLSI",2024,"M45 Table 18",4,4,0,4,1
+"CLSI",2024,"M45 Table 19",6,6,0,6,1
+"CLSI",2024,"M45 Table 2",30,10,20,23,2
+"CLSI",2024,"M45 Table 20",47,24,23,26,1
+"CLSI",2024,"M45 Table 21",35,35,0,13,6
+"CLSI",2024,"M45 Table 3",20,19,1,19,1
+"CLSI",2024,"M45 Table 4",15,15,0,15,1
+"CLSI",2024,"M45 Table 5",7,4,3,4,1
+"CLSI",2024,"M45 Table 6",17,17,0,17,1
+"CLSI",2024,"M45 Table 8",8,8,0,8,1
+"CLSI",2024,"M45 Table 9",64,64,0,16,4
+"CLSI",2024,"M61 Table 1",2,2,0,1,2
+"CLSI",2024,"Table 1",19,0,19,4,6
+"CLSI",2024,"Table 2A-1",148,75,73,73,4
+"CLSI",2024,"Table 2A-2",285,144,141,72,3
+"CLSI",2024,"Table 2B-1",48,24,24,24,1
+"CLSI",2024,"Table 2B-2",54,27,27,27,2
+"CLSI",2024,"Table 2B-3",14,7,7,7,1
+"CLSI",2024,"Table 2B-4",14,7,7,7,1
+"CLSI",2024,"Table 2B-5",31,31,0,31,1
+"CLSI",2024,"Table 2C",104,56,48,42,7
+"CLSI",2024,"Table 2D",48,28,20,27,3
+"CLSI",2024,"Table 2E",178,91,87,46,2
+"CLSI",2024,"Table 2F",26,13,13,13,1
+"CLSI",2024,"Table 2G",92,48,44,44,1
+"CLSI",2024,"Table 2H-1",77,42,35,39,4
+"CLSI",2024,"Table 2H-2",58,29,29,29,1
+"CLSI",2024,"Table 2I",28,13,15,15,1
+"CLSI",2024,"Table 2J",23,23,0,23,1
+"CLSI",2024,"WHONET",6,3,3,3,1
+"CLSI",2025,"",2,1,1,1,1
+"CLSI",2025,"FDA",74,37,37,4,16
+"CLSI",2025,"M24 Table 1",3,3,0,2,1
+"CLSI",2025,"M24 Table 3",5,5,0,4,1
+"CLSI",2025,"M24 Table 4",10,10,0,10,1
+"CLSI",2025,"M24 Table 5",10,10,0,10,1
+"CLSI",2025,"M24 Table 6",12,12,0,12,1
+"CLSI",2025,"M24 Table 7",112,112,0,14,8
+"CLSI",2025,"M27 Table 1",33,33,0,6,8
+"CLSI",2025,"M45 Table 1",40,40,0,14,3
+"CLSI",2025,"M45 Table 10",1,1,0,1,1
+"CLSI",2025,"M45 Table 11",10,10,0,10,1
+"CLSI",2025,"M45 Table 12",10,10,0,10,1
+"CLSI",2025,"M45 Table 13",4,4,0,4,1
+"CLSI",2025,"M45 Table 14",4,4,0,4,1
+"CLSI",2025,"M45 Table 15",4,4,0,4,1
+"CLSI",2025,"M45 Table 16",22,16,6,16,1
+"CLSI",2025,"M45 Table 17",25,13,12,13,1
+"CLSI",2025,"M45 Table 18",4,4,0,4,1
+"CLSI",2025,"M45 Table 19",6,6,0,6,1
+"CLSI",2025,"M45 Table 2",30,10,20,23,2
+"CLSI",2025,"M45 Table 20",49,24,25,26,1
+"CLSI",2025,"M45 Table 21",35,35,0,13,6
+"CLSI",2025,"M45 Table 3",20,19,1,19,1
+"CLSI",2025,"M45 Table 4",15,15,0,15,1
+"CLSI",2025,"M45 Table 5",7,4,3,4,1
+"CLSI",2025,"M45 Table 6",17,17,0,17,1
+"CLSI",2025,"M45 Table 8",8,8,0,8,1
+"CLSI",2025,"M45 Table 9",64,64,0,16,4
+"CLSI",2025,"M61 Table 1",2,2,0,1,2
+"CLSI",2025,"Table 1",19,0,19,4,6
+"CLSI",2025,"Table 2A-1",148,75,73,73,4
+"CLSI",2025,"Table 2A-2",285,144,141,72,3
+"CLSI",2025,"Table 2B-1",48,24,24,24,1
+"CLSI",2025,"Table 2B-2",54,27,27,27,2
+"CLSI",2025,"Table 2B-4",14,7,7,7,1
+"CLSI",2025,"Table 2B-5",31,31,0,31,1
+"CLSI",2025,"Table 2C",105,56,49,42,8
+"CLSI",2025,"Table 2D",48,28,20,27,3
+"CLSI",2025,"Table 2E",178,91,87,46,2
+"CLSI",2025,"Table 2F",26,13,13,13,1
+"CLSI",2025,"Table 2G",92,48,44,44,1
+"CLSI",2025,"Table 2H-1",77,42,35,39,4
+"CLSI",2025,"Table 2H-2",58,29,29,29,1
+"CLSI",2025,"Table 2I",28,13,15,15,1
+"CLSI",2025,"Table 2J",23,23,0,23,1
+"CLSI",2025,"WHONET",6,3,3,3,1
+"CLSI",2026,"",2,1,1,1,1
+"CLSI",2026,"FDA",74,37,37,4,16
+"CLSI",2026,"M24 Table 1",3,3,0,2,1
+"CLSI",2026,"M24 Table 3",5,5,0,4,1
+"CLSI",2026,"M24 Table 4",10,10,0,10,1
+"CLSI",2026,"M24 Table 5",10,10,0,10,1
+"CLSI",2026,"M24 Table 6",12,12,0,12,1
+"CLSI",2026,"M24 Table 7",112,112,0,14,8
+"CLSI",2026,"M27 Table 1",33,33,0,6,8
+"CLSI",2026,"M38M51S",4,4,0,2,2
+"CLSI",2026,"M45 Table 1",40,40,0,14,3
+"CLSI",2026,"M45 Table 10",1,1,0,1,1
+"CLSI",2026,"M45 Table 11",10,10,0,10,1
+"CLSI",2026,"M45 Table 12",10,10,0,10,1
+"CLSI",2026,"M45 Table 13",4,4,0,4,1
+"CLSI",2026,"M45 Table 14",4,4,0,4,1
+"CLSI",2026,"M45 Table 15",4,4,0,4,1
+"CLSI",2026,"M45 Table 16",22,16,6,16,1
+"CLSI",2026,"M45 Table 17",25,13,12,13,1
+"CLSI",2026,"M45 Table 18",4,4,0,4,1
+"CLSI",2026,"M45 Table 19",6,6,0,6,1
+"CLSI",2026,"M45 Table 2",30,10,20,23,2
+"CLSI",2026,"M45 Table 20",48,24,24,26,1
+"CLSI",2026,"M45 Table 21",35,35,0,13,6
+"CLSI",2026,"M45 Table 3",20,19,1,19,1
+"CLSI",2026,"M45 Table 4",15,15,0,15,1
+"CLSI",2026,"M45 Table 5",7,4,3,4,1
+"CLSI",2026,"M45 Table 6",17,17,0,17,1
+"CLSI",2026,"M45 Table 8",8,8,0,8,1
+"CLSI",2026,"M45 Table 9",64,64,0,16,4
+"CLSI",2026,"Table 1",19,0,19,4,6
+"CLSI",2026,"Table 2A-1",154,78,76,74,6
+"CLSI",2026,"Table 2A-2",285,144,141,72,3
+"CLSI",2026,"Table 2B-1",48,24,24,24,1
+"CLSI",2026,"Table 2B-2",54,27,27,27,2
+"CLSI",2026,"Table 2B-4",14,7,7,7,1
+"CLSI",2026,"Table 2B-5",31,31,0,31,1
+"CLSI",2026,"Table 2C",105,56,49,42,8
+"CLSI",2026,"Table 2D",48,28,20,27,3
+"CLSI",2026,"Table 2E",178,91,87,46,2
+"CLSI",2026,"Table 2F",26,13,13,13,1
+"CLSI",2026,"Table 2G",92,48,44,44,1
+"CLSI",2026,"Table 2H-1",77,42,35,39,4
+"CLSI",2026,"Table 2H-2",58,29,29,29,1
+"CLSI",2026,"Table 2I",28,13,15,15,1
+"CLSI",2026,"Table 2J",23,23,0,23,1
+"CLSI",2026,"WHONET",6,3,3,3,1
+"EUCAST",2011,"",612,419,193,66,22
+"EUCAST",2012,"",468,292,176,67,23
+"EUCAST",2013,"",32,32,0,32,1
+"EUCAST",2013,"Acinetob",21,11,10,11,1
+"EUCAST",2013,"Anaerobes, Gramneg",16,16,0,16,1
+"EUCAST",2013,"Anaerobes, Grampos",17,17,0,17,1
+"EUCAST",2013,"Aspergillus",5,5,0,4,1
+"EUCAST",2013,"C.difficile",7,7,0,7,1
+"EUCAST",2013,"Campylobacter",8,4,4,3,3
+"EUCAST",2013,"Candida",16,16,0,5,6
+"EUCAST",2013,"Enterobacteriaceae",89,46,43,43,4
+"EUCAST",2013,"Enterococcus",31,17,14,17,3
+"EUCAST",2013,"H.influenzae",64,35,29,35,2
+"EUCAST",2013,"H.pylori",6,6,0,6,1
+"EUCAST",2013,"Listeria",10,5,5,5,1
+"EUCAST",2013,"M.catarrhalis",51,28,23,28,1
+"EUCAST",2013,"N.gonorrhoeae",9,9,0,9,1
+"EUCAST",2013,"N.meningitidis",11,11,0,11,1
+"EUCAST",2013,"Pasteurella",18,9,9,11,1
+"EUCAST",2013,"Pneumo",54,36,18,35,1
+"EUCAST",2013,"Pseud",33,17,16,17,1
+"EUCAST",2013,"S.maltophilia",2,1,1,1,1
+"EUCAST",2013,"Staphs",78,44,34,37,5
+"EUCAST",2013,"Strept A,B,C,G",40,22,18,23,2
+"EUCAST",2013,"Viridans strept",26,15,11,15,1
+"EUCAST",2014,"Acinetobacter spp.",21,11,10,11,1
+"EUCAST",2014,"Anaerobes, Gramneg",16,16,0,16,1
+"EUCAST",2014,"Anaerobes, Grampos",17,17,0,17,1
+"EUCAST",2014,"Aspergillus",5,5,0,3,3
+"EUCAST",2014,"C. difficile",7,7,0,7,1
+"EUCAST",2014,"Campylobacter jejuni and coli",8,4,4,3,3
+"EUCAST",2014,"Candida",25,25,0,6,7
+"EUCAST",2014,"Corynebacterium spp.",18,9,9,9,1
+"EUCAST",2014,"Enterobacteriaceae",87,45,42,43,2
+"EUCAST",2014,"Enterococcus",30,17,13,18,2
+"EUCAST",2014,"H. influenaza",60,33,27,33,1
+"EUCAST",2014,"H. pylori",6,6,0,6,1
+"EUCAST",2014,"Listeria monocytogenes",10,5,5,5,1
+"EUCAST",2014,"M. cattharalis",48,26,22,26,1
+"EUCAST",2014,"N. gonorrhoeae",9,9,0,9,1
+"EUCAST",2014,"N. meningitidis",11,11,0,11,1
+"EUCAST",2014,"PK/PD",32,32,0,32,1
+"EUCAST",2014,"Pasteurella multocida",18,9,9,11,1
+"EUCAST",2014,"Pneumo",53,35,18,34,1
+"EUCAST",2014,"Pseudo",33,17,16,17,1
+"EUCAST",2014,"Staphs",74,40,34,36,6
+"EUCAST",2014,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2014,"Strep A, B, C, G",39,22,17,23,2
+"EUCAST",2014,"Viridans strept",27,17,10,17,1
+"EUCAST",2015,"Acinetobacter spp.",21,11,10,11,1
+"EUCAST",2015,"Anaerobes, Gramneg",16,16,0,16,1
+"EUCAST",2015,"Anaerobes, Grampos",17,17,0,17,1
+"EUCAST",2015,"Aspergillus",5,5,0,3,3
+"EUCAST",2015,"C. difficile",7,7,0,7,1
+"EUCAST",2015,"Campylobacter jejuni and coli",8,4,4,3,3
+"EUCAST",2015,"Candida",28,28,0,7,7
+"EUCAST",2015,"Corynebacterium spp.",18,9,9,9,1
+"EUCAST",2015,"Enterobacteriaceae",87,45,42,43,2
+"EUCAST",2015,"Enterococcus",30,17,13,18,2
+"EUCAST",2015,"H. influenaza",60,33,27,33,1
+"EUCAST",2015,"H. pylori",6,6,0,6,1
+"EUCAST",2015,"Listeria monocytogenes",10,5,5,5,1
+"EUCAST",2015,"M. cattharalis",48,26,22,26,1
+"EUCAST",2015,"M.tuberculosis",1,1,0,1,1
+"EUCAST",2015,"N. gonorrhoeae",9,9,0,9,1
+"EUCAST",2015,"N. meningitidis",11,11,0,11,1
+"EUCAST",2015,"PK/PD",33,33,0,33,1
+"EUCAST",2015,"Pasteurella multocida",18,9,9,11,1
+"EUCAST",2015,"Pneumo",53,35,18,34,1
+"EUCAST",2015,"Pseudo",33,17,16,17,1
+"EUCAST",2015,"Staphs",74,40,34,36,6
+"EUCAST",2015,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2015,"Strep A, B, C, G",39,22,17,23,2
+"EUCAST",2015,"Viridans strept",27,17,10,17,1
+"EUCAST",2016,"Acinetobacter spp.",21,11,10,11,1
+"EUCAST",2016,"Anaerobes, Gramneg",16,16,0,16,1
+"EUCAST",2016,"Anaerobes, Grampos",17,17,0,17,1
+"EUCAST",2016,"Aspergillus",5,5,0,3,3
+"EUCAST",2016,"C. difficile",7,7,0,7,1
+"EUCAST",2016,"Campylobacter jejuni and coli",8,4,4,3,3
+"EUCAST",2016,"Candida",28,28,0,7,7
+"EUCAST",2016,"Corynebacterium spp.",18,9,9,9,1
+"EUCAST",2016,"Enterobacteriaceae",90,46,44,45,2
+"EUCAST",2016,"Enterococcus",36,19,17,20,2
+"EUCAST",2016,"H. influenzae",60,33,27,33,2
+"EUCAST",2016,"H. pylori",6,6,0,6,1
+"EUCAST",2016,"Listeria monocytogenes",10,5,5,5,1
+"EUCAST",2016,"M. catarrhalis",48,26,22,26,1
+"EUCAST",2016,"M. tuberculosis",1,1,0,1,1
+"EUCAST",2016,"N. gonorrhoeae",9,9,0,9,1
+"EUCAST",2016,"N. meningitidis",11,11,0,11,1
+"EUCAST",2016,"PK/PD",36,36,0,36,2
+"EUCAST",2016,"Pasteurella multocida",18,9,9,11,1
+"EUCAST",2016,"Pneumo",53,35,18,34,1
+"EUCAST",2016,"Pseudo",34,18,16,18,1
+"EUCAST",2016,"Staphs",81,45,36,41,6
+"EUCAST",2016,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2016,"Strep A, B, C, G",42,25,17,26,2
+"EUCAST",2016,"Viridans strept",30,20,10,20,1
+"EUCAST",2017,"Acinetobacter spp.",21,11,10,11,1
+"EUCAST",2017,"Aerococcus",16,8,8,9,1
+"EUCAST",2017,"Anaerobes, Gramneg",16,16,0,16,1
+"EUCAST",2017,"Anaerobes, Grampos",17,17,0,17,1
+"EUCAST",2017,"Aspergillus",5,5,0,3,3
+"EUCAST",2017,"C. difficile",7,7,0,7,1
+"EUCAST",2017,"Campylobacter jejuni and coli",8,4,4,3,3
+"EUCAST",2017,"Candida",28,28,0,7,7
+"EUCAST",2017,"Corynebacterium spp.",18,9,9,9,1
+"EUCAST",2017,"Enterobacteriaceae",96,48,48,47,3
+"EUCAST",2017,"Enterococcus",36,19,17,20,2
+"EUCAST",2017,"H. influenzae",60,33,27,33,2
+"EUCAST",2017,"H. pylori",6,6,0,6,1
+"EUCAST",2017,"Kingella",27,16,11,16,1
+"EUCAST",2017,"Listeria monocytogenes",10,5,5,5,1
+"EUCAST",2017,"M. catarrhalis",48,26,22,26,1
+"EUCAST",2017,"M. tuberculosis",1,1,0,1,1
+"EUCAST",2017,"N. gonorrhoeae",9,9,0,9,1
+"EUCAST",2017,"N. meningitidis",11,11,0,11,1
+"EUCAST",2017,"PK/PD",37,37,0,37,1
+"EUCAST",2017,"Pasteurella multocida",18,9,9,11,1
+"EUCAST",2017,"Pneumo",53,35,18,34,1
+"EUCAST",2017,"Pseudo",36,19,17,19,1
+"EUCAST",2017,"Staphs",98,57,41,41,7
+"EUCAST",2017,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2017,"Strep A, B, C, G",42,25,17,26,2
+"EUCAST",2017,"Viridans strept",30,20,10,20,1
+"EUCAST",2018,"Acinetobacter spp.",21,11,10,11,1
+"EUCAST",2018,"Aerococcus",16,8,8,9,1
+"EUCAST",2018,"Aeromonas",12,6,6,6,1
+"EUCAST",2018,"Anaerobes, Gramneg",16,16,0,16,1
+"EUCAST",2018,"Anaerobes, Grampos",17,17,0,17,1
+"EUCAST",2018,"Aspergillus",5,5,0,3,3
+"EUCAST",2018,"C. difficile",7,7,0,7,1
+"EUCAST",2018,"Campylobacter jejuni and coli",8,4,4,3,3
+"EUCAST",2018,"Candida",28,28,0,7,7
+"EUCAST",2018,"Corynebacterium spp.",18,9,9,9,1
+"EUCAST",2018,"Enterobacteriaceae",96,48,48,47,3
+"EUCAST",2018,"Enterococcus",36,19,17,20,2
+"EUCAST",2018,"H. influenzae",60,33,27,33,2
+"EUCAST",2018,"H. pylori",6,6,0,6,1
+"EUCAST",2018,"Kingella",27,16,11,16,1
+"EUCAST",2018,"Listeria monocytogenes",10,5,5,5,1
+"EUCAST",2018,"M. catarrhalis",48,26,22,26,1
+"EUCAST",2018,"M. tuberculosis",1,1,0,1,1
+"EUCAST",2018,"N. gonorrhoeae",9,9,0,9,1
+"EUCAST",2018,"N. meningitidis",11,11,0,11,1
+"EUCAST",2018,"PK/PD",37,37,0,37,1
+"EUCAST",2018,"Pasteurella multocida",18,9,9,11,1
+"EUCAST",2018,"Pneumo",53,35,18,34,1
+"EUCAST",2018,"Pseudo",37,19,18,19,2
+"EUCAST",2018,"Staphs",100,58,42,41,7
+"EUCAST",2018,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2018,"Strep A, B, C, G",42,25,17,26,2
+"EUCAST",2018,"Viridans strept",30,20,10,20,1
+"EUCAST",2019,"Acinetobacter spp.",19,10,9,10,1
+"EUCAST",2019,"Aerococcus",16,8,8,9,1
+"EUCAST",2019,"Aeromonas",12,6,6,6,1
+"EUCAST",2019,"Anaerobes, Gramneg",15,15,0,15,1
+"EUCAST",2019,"Anaerobes, Grampos",16,16,0,16,1
+"EUCAST",2019,"Aspergillus",12,12,0,5,5
+"EUCAST",2019,"C. difficile",7,7,0,7,1
+"EUCAST",2019,"Campylobacter jejuni and coli",8,4,4,3,3
+"EUCAST",2019,"Candida",29,29,0,7,6
+"EUCAST",2019,"Corynebacterium spp.",18,9,9,9,1
+"EUCAST",2019,"Enterobacteriaceae",102,52,50,48,6
+"EUCAST",2019,"Enterococcus",37,20,17,21,2
+"EUCAST",2019,"H. influenzae",60,33,27,33,1
+"EUCAST",2019,"H. pylori",6,6,0,6,1
+"EUCAST",2019,"Kingella",27,16,11,16,1
+"EUCAST",2019,"Listeria monocytogenes",10,5,5,5,1
+"EUCAST",2019,"M. catarrhalis",46,25,21,25,1
+"EUCAST",2019,"M. tuberculosis",1,1,0,1,1
+"EUCAST",2019,"N. gonorrhoeae",8,8,0,8,1
+"EUCAST",2019,"N. meningitidis",11,11,0,11,1
+"EUCAST",2019,"PK/PD",38,38,0,38,1
+"EUCAST",2019,"Pasteurella multocida",18,9,9,11,1
+"EUCAST",2019,"Pneumo",55,36,19,35,1
+"EUCAST",2019,"Pseudo",36,19,17,19,2
+"EUCAST",2019,"Staphs",102,60,42,42,8
+"EUCAST",2019,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2019,"Strep A, B, C, G",42,25,17,26,2
+"EUCAST",2019,"Viridans strept",30,20,10,20,1
+"EUCAST",2020,"Acinetobacter spp.",24,13,11,10,1
+"EUCAST",2020,"Aerococcus",16,8,8,9,1
+"EUCAST",2020,"Aeromonas",12,6,6,6,1
+"EUCAST",2020,"Anaerobes, Gramneg",16,16,0,16,1
+"EUCAST",2020,"Anaerobes, Grampos",17,17,0,17,1
+"EUCAST",2020,"Aspergillus",12,12,0,5,5
+"EUCAST",2020,"B. pseudomallei",14,7,7,8,1
+"EUCAST",2020,"C. difficile",21,21,0,7,3
+"EUCAST",2020,"Campylobacter jejuni and coli",16,8,8,3,3
+"EUCAST",2020,"Candida",29,29,0,7,6
+"EUCAST",2020,"Corynebacterium spp.",16,8,8,8,1
+"EUCAST",2020,"Enterobacteriaceae",112,58,54,50,7
+"EUCAST",2020,"Enterococcus",45,24,21,21,3
+"EUCAST",2020,"H. influenzae",64,36,28,34,1
+"EUCAST",2020,"H. pylori",6,6,0,6,1
+"EUCAST",2020,"Kingella",27,16,11,16,1
+"EUCAST",2020,"Listeria monocytogenes",10,5,5,5,1
+"EUCAST",2020,"M. catarrhalis",46,25,21,25,1
+"EUCAST",2020,"M. tuberculosis",2,2,0,2,1
+"EUCAST",2020,"N. gonorrhoeae",8,8,0,8,1
+"EUCAST",2020,"N. meningitidis",11,11,0,11,1
+"EUCAST",2020,"PK/PD",39,39,0,39,1
+"EUCAST",2020,"Pasteurella multocida",18,9,9,11,1
+"EUCAST",2020,"Pneumo",55,36,19,35,1
+"EUCAST",2020,"Pseudo",37,20,17,18,2
+"EUCAST",2020,"Staphs",105,61,44,43,8
+"EUCAST",2020,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2020,"Strep A, B, C, G",44,26,18,27,2
+"EUCAST",2020,"Viridans strept",41,27,14,22,4
+"EUCAST",2021,"A. xylosoxidans",12,6,6,3,2
+"EUCAST",2021,"Acinetobacter spp.",29,15,14,11,1
+"EUCAST",2021,"Aerococcus",16,8,8,9,1
+"EUCAST",2021,"Aeromonas",12,6,6,6,1
+"EUCAST",2021,"Aspergillus",12,12,0,5,5
+"EUCAST",2021,"B. pseudomallei",14,7,7,8,1
+"EUCAST",2021,"Bacillus sp.",34,16,18,9,2
+"EUCAST",2021,"C. difficile",7,7,0,7,1
+"EUCAST",2021,"C. jejuni, C. coli",12,6,6,3,2
+"EUCAST",2021,"Candida",29,29,0,7,6
+"EUCAST",2021,"Corynebacterium spp.",16,8,8,8,1
+"EUCAST",2021,"Enterobacteriaceae",157,79,78,53,21
+"EUCAST",2021,"Enterococcus",45,24,21,21,3
+"EUCAST",2021,"Gram-negative anaerobes",17,17,0,17,1
+"EUCAST",2021,"Gram-positive anaerobes",18,18,0,18,1
+"EUCAST",2021,"H. influenzae",70,39,31,35,1
+"EUCAST",2021,"H. pylori",6,6,0,6,1
+"EUCAST",2021,"Kingella",27,16,11,16,1
+"EUCAST",2021,"L. monocytogenes",12,6,6,5,1
+"EUCAST",2021,"M. catarrhalis",46,25,21,25,1
+"EUCAST",2021,"M. tuberculosis",2,2,0,2,1
+"EUCAST",2021,"N. gonorrhoeae",8,8,0,8,1
+"EUCAST",2021,"N. meningitidis",13,13,0,11,1
+"EUCAST",2021,"P. multocida",2,1,1,1,1
+"EUCAST",2021,"PK/PD",39,39,0,39,1
+"EUCAST",2021,"Pasteurella multocida",16,8,8,10,1
+"EUCAST",2021,"Pseudo",44,23,21,20,2
+"EUCAST",2021,"S. pneumoniae",63,43,20,37,1
+"EUCAST",2021,"Staphs",98,50,48,43,9
+"EUCAST",2021,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2021,"Strep A, B, C, G",46,27,19,27,2
+"EUCAST",2021,"Viridans strept",41,27,14,22,4
+"EUCAST",2022,"",1,1,0,1,1
+"EUCAST",2022,"A. xylosoxidans",12,6,6,3,2
+"EUCAST",2022,"Acinetobacter spp.",29,15,14,11,1
+"EUCAST",2022,"Aerococcus",16,8,8,9,1
+"EUCAST",2022,"Aeromonas",12,6,6,6,1
+"EUCAST",2022,"Aspergillus",14,14,0,5,5
+"EUCAST",2022,"B. pseudomallei",14,7,7,8,1
+"EUCAST",2022,"Bacillus sp.",34,16,18,9,2
+"EUCAST",2022,"Bacteroides",8,4,4,4,1
+"EUCAST",2022,"C. acnes",10,5,5,5,1
+"EUCAST",2022,"C. difficile",2,2,0,2,1
+"EUCAST",2022,"C. jejuni, C. coli",12,6,6,3,2
+"EUCAST",2022,"C. perfringens",12,6,6,6,1
+"EUCAST",2022,"Candida",33,33,0,7,8
+"EUCAST",2022,"Corynebacterium spp.",16,8,8,8,1
+"EUCAST",2022,"Enterobacteriaceae",157,79,78,53,21
+"EUCAST",2022,"Enterococcus",45,24,21,21,3
+"EUCAST",2022,"F. necrophorum",10,5,5,5,1
+"EUCAST",2022,"Gram-negative anaerobes",17,17,0,17,1
+"EUCAST",2022,"Gram-positive anaerobes",18,18,0,18,1
+"EUCAST",2022,"H. influenzae",74,41,33,35,1
+"EUCAST",2022,"H. pylori",6,6,0,6,1
+"EUCAST",2022,"Kingella",27,16,11,16,1
+"EUCAST",2022,"L. monocytogenes",12,6,6,5,1
+"EUCAST",2022,"M. catarrhalis",46,25,21,25,1
+"EUCAST",2022,"M. tuberculosis",2,2,0,2,1
+"EUCAST",2022,"N. gonorrhoeae",8,8,0,8,1
+"EUCAST",2022,"N. meningitidis",13,13,0,11,1
+"EUCAST",2022,"P. multocida",2,1,1,1,1
+"EUCAST",2022,"PK/PD",39,39,0,39,1
+"EUCAST",2022,"Pasteurella multocida",16,8,8,10,1
+"EUCAST",2022,"Prevotella",10,5,5,5,1
+"EUCAST",2022,"Pseudo",47,24,23,20,2
+"EUCAST",2022,"S. pneumoniae",66,44,22,37,1
+"EUCAST",2022,"Staphs",144,79,65,43,10
+"EUCAST",2022,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2022,"Strep A, B, C, G",48,28,20,27,2
+"EUCAST",2022,"Vibrio",240,108,132,12,12
+"EUCAST",2022,"Viridans strept",41,27,14,22,4
+"EUCAST",2022,"WHONET",6,3,3,3,1
+"EUCAST",2023,"",1,1,0,1,1
+"EUCAST",2023,"A. xylosoxidans",12,6,6,3,2
+"EUCAST",2023,"Acinetobacter spp.",29,15,14,11,1
+"EUCAST",2023,"Aerococcus",16,8,8,9,1
+"EUCAST",2023,"Aeromonas",12,6,6,6,1
+"EUCAST",2023,"Aspergillus",14,14,0,5,5
+"EUCAST",2023,"B. pseudomallei",14,7,7,8,1
+"EUCAST",2023,"Bacillus sp.",34,16,18,9,2
+"EUCAST",2023,"Bacteroides",48,24,24,8,3
+"EUCAST",2023,"C. acnes",10,5,5,5,1
+"EUCAST",2023,"C. difficile",2,2,0,2,1
+"EUCAST",2023,"C. jejuni, C. coli",12,6,6,3,2
+"EUCAST",2023,"C. perfringens",12,6,6,6,1
+"EUCAST",2023,"Candida",33,33,0,7,8
+"EUCAST",2023,"Corynebacterium diphtheriae and C. ulcerans",52,28,24,14,2
+"EUCAST",2023,"Corynebacterium spp.",16,8,8,8,1
+"EUCAST",2023,"Enterobacterales",114,59,55,45,1
+"EUCAST",2023,"Enterobacteriaceae",56,28,28,11,20
+"EUCAST",2023,"Enterococcus",45,24,21,21,3
+"EUCAST",2023,"F. necrophorum",10,5,5,5,1
+"EUCAST",2023,"Gram-negative anaerobes",17,17,0,17,1
+"EUCAST",2023,"Gram-positive anaerobes",18,18,0,18,1
+"EUCAST",2023,"H. influenzae",75,42,33,35,1
+"EUCAST",2023,"H. pylori",6,6,0,6,1
+"EUCAST",2023,"Kingella",27,16,11,16,1
+"EUCAST",2023,"L. monocytogenes",12,6,6,5,1
+"EUCAST",2023,"M. catarrhalis",48,26,22,26,1
+"EUCAST",2023,"M. tuberculosis",2,2,0,2,1
+"EUCAST",2023,"N. gonorrhoeae",8,8,0,8,1
+"EUCAST",2023,"N. meningitidis",13,13,0,11,1
+"EUCAST",2023,"PK/PD",39,39,0,39,1
+"EUCAST",2023,"Pasteurella spp.",18,9,9,11,1
+"EUCAST",2023,"Prevotella",10,5,5,5,1
+"EUCAST",2023,"Pseudo",47,24,23,20,2
+"EUCAST",2023,"S. pneumoniae",64,43,21,37,1
+"EUCAST",2023,"Staphs",144,79,65,43,10
+"EUCAST",2023,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2023,"Strep A, B, C, G",46,27,19,27,2
+"EUCAST",2023,"Vibrio",240,108,132,12,12
+"EUCAST",2023,"Viridans strept",41,27,14,22,4
+"EUCAST",2023,"WHONET",6,3,3,3,1
+"EUCAST",2024,"",1,1,0,1,1
+"EUCAST",2024,"A. xylosoxidans",12,6,6,3,2
+"EUCAST",2024,"Acinetobacter spp.",27,14,13,10,1
+"EUCAST",2024,"Aerococcus",16,8,8,9,1
+"EUCAST",2024,"Aeromonas",12,6,6,6,1
+"EUCAST",2024,"Aspergillus",14,14,0,5,5
+"EUCAST",2024,"B. pseudomallei",14,7,7,8,1
+"EUCAST",2024,"Bacillus anthracis",18,10,8,10,1
+"EUCAST",2024,"Bacillus sp.",17,8,9,9,1
+"EUCAST",2024,"Bacteroides",48,24,24,8,3
+"EUCAST",2024,"Brucella melitensis",85,45,40,9,5
+"EUCAST",2024,"C. acnes",10,5,5,5,1
+"EUCAST",2024,"C. difficile",9,9,0,3,3
+"EUCAST",2024,"C. jejuni, C. coli",12,6,6,3,2
+"EUCAST",2024,"C. perfringens",12,6,6,6,1
+"EUCAST",2024,"Candida",33,33,0,7,8
+"EUCAST",2024,"Corynebacterium diphtheriae and C. ulcerans",52,28,24,14,2
+"EUCAST",2024,"Corynebacterium spp.",16,8,8,8,1
+"EUCAST",2024,"Enterobacterales",175,90,85,53,22
+"EUCAST",2024,"Enterococcus",49,26,23,21,5
+"EUCAST",2024,"F. necrophorum",10,5,5,5,1
+"EUCAST",2024,"Gram-negative anaerobes",17,17,0,17,1
+"EUCAST",2024,"Gram-positive anaerobes",18,18,0,18,1
+"EUCAST",2024,"H. influenzae",75,42,33,35,1
+"EUCAST",2024,"H. pylori",6,6,0,6,1
+"EUCAST",2024,"Kingella",27,16,11,16,1
+"EUCAST",2024,"L. monocytogenes",12,6,6,5,1
+"EUCAST",2024,"M. catarrhalis",48,26,22,26,1
+"EUCAST",2024,"M. tuberculosis",2,2,0,2,1
+"EUCAST",2024,"N. gonorrhoeae",8,8,0,8,1
+"EUCAST",2024,"N. meningitidis",13,13,0,11,1
+"EUCAST",2024,"PK/PD",39,39,0,39,1
+"EUCAST",2024,"Pasteurella spp.",18,9,9,11,1
+"EUCAST",2024,"Prevotella",10,5,5,5,1
+"EUCAST",2024,"Pseudo",47,24,23,20,2
+"EUCAST",2024,"S. pneumoniae",64,43,21,37,1
+"EUCAST",2024,"Staphs",145,78,67,42,11
+"EUCAST",2024,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2024,"Strep A, B, C, G",45,26,19,26,2
+"EUCAST",2024,"Vibrio",240,108,132,12,12
+"EUCAST",2024,"Viridans strept",41,27,14,22,4
+"EUCAST",2024,"WHONET",6,3,3,3,1
+"EUCAST",2025,"",1,1,0,1,1
+"EUCAST",2025,"A. xylosoxidans",12,6,6,3,2
+"EUCAST",2025,"Acinetobacter spp.",27,14,13,10,1
+"EUCAST",2025,"Aerococcus",16,8,8,9,1
+"EUCAST",2025,"Aeromonas",12,6,6,6,1
+"EUCAST",2025,"Aspergillus",14,14,0,5,5
+"EUCAST",2025,"B. pseudomallei",14,7,7,8,1
+"EUCAST",2025,"Bacillus anthracis",18,10,8,10,1
+"EUCAST",2025,"Bacillus sp.",17,8,9,9,1
+"EUCAST",2025,"Bacteroides",48,24,24,8,3
+"EUCAST",2025,"Brucella melitensis",85,45,40,9,5
+"EUCAST",2025,"C. acnes",10,5,5,5,1
+"EUCAST",2025,"C. difficile",9,9,0,3,3
+"EUCAST",2025,"C. jejuni, C. coli",12,6,6,3,2
+"EUCAST",2025,"C. perfringens",12,6,6,6,1
+"EUCAST",2025,"Candida",42,42,0,8,8
+"EUCAST",2025,"Corynebacterium diphtheriae and C. ulcerans",52,28,24,14,2
+"EUCAST",2025,"Corynebacterium spp.",16,8,8,8,1
+"EUCAST",2025,"Enterobacterales",179,92,87,55,22
+"EUCAST",2025,"Enterococcus",58,30,28,21,5
+"EUCAST",2025,"F. necrophorum",10,5,5,5,1
+"EUCAST",2025,"Gram-negative anaerobes",17,17,0,17,1
+"EUCAST",2025,"Gram-positive anaerobes",18,18,0,18,1
+"EUCAST",2025,"H. influenzae",115,82,33,35,2
+"EUCAST",2025,"H. pylori",6,6,0,6,1
+"EUCAST",2025,"Kingella",28,16,12,17,1
+"EUCAST",2025,"L. monocytogenes",12,6,6,5,1
+"EUCAST",2025,"M. catarrhalis",48,26,22,26,1
+"EUCAST",2025,"M. tuberculosis",2,2,0,2,1
+"EUCAST",2025,"N. gonorrhoeae",8,8,0,8,1
+"EUCAST",2025,"N. meningitidis",13,13,0,11,1
+"EUCAST",2025,"PK/PD",39,39,0,39,1
+"EUCAST",2025,"Pasteurella spp.",18,9,9,11,1
+"EUCAST",2025,"Prevotella",10,5,5,5,1
+"EUCAST",2025,"Pseudo",47,24,23,20,2
+"EUCAST",2025,"S. pneumoniae",63,43,20,36,1
+"EUCAST",2025,"Staphs",145,78,67,42,11
+"EUCAST",2025,"Stenotrophomonas maltophilia",2,1,1,1,1
+"EUCAST",2025,"Strep A, B, C, G",59,33,26,24,11
+"EUCAST",2025,"Vibrio",240,108,132,12,12
+"EUCAST",2025,"Viridans strept",48,31,17,22,4
+"EUCAST",2025,"WHONET",6,3,3,3,1
+"EUCAST",2026,"",5,5,0,5,2
+"EUCAST",2026,"A. xylosoxidans",12,6,6,3,2
+"EUCAST",2026,"Acinetobacter spp.",27,14,13,10,1
+"EUCAST",2026,"Aerococcus",16,8,8,9,1
+"EUCAST",2026,"Aeromonas",12,6,6,6,1
+"EUCAST",2026,"Aspergillus",14,14,0,5,5
+"EUCAST",2026,"B. pseudomallei",14,7,7,8,1
+"EUCAST",2026,"Bacillus anthracis",18,10,8,10,1
+"EUCAST",2026,"Bacillus sp.",17,8,9,9,1
+"EUCAST",2026,"Bacteroides",48,24,24,8,3
+"EUCAST",2026,"Brucella melitensis",85,45,40,9,5
+"EUCAST",2026,"C. acnes",10,5,5,5,1
+"EUCAST",2026,"C. difficile",9,9,0,3,3
+"EUCAST",2026,"C. jejuni, C. coli",12,6,6,3,2
+"EUCAST",2026,"C. perfringens",12,6,6,6,1
+"EUCAST",2026,"Candida",45,45,0,8,9
+"EUCAST",2026,"Corynebacterium diphtheriae and C. ulcerans",52,28,24,14,2
+"EUCAST",2026,"Corynebacterium spp.",16,8,8,8,1
+"EUCAST",2026,"Enterobacterales",188,97,91,56,23
+"EUCAST",2026,"Enterococcus",59,31,28,22,5
+"EUCAST",2026,"F. necrophorum",10,5,5,5,1
+"EUCAST",2026,"Gram-negative anaerobes",17,17,0,17,1
+"EUCAST",2026,"Gram-positive anaerobes",18,18,0,18,1
+"EUCAST",2026,"H. influenzae",116,82,34,35,2
+"EUCAST",2026,"H. pylori",6,6,0,6,1
+"EUCAST",2026,"Kingella",28,16,12,17,1
+"EUCAST",2026,"L. monocytogenes",12,6,6,5,1
+"EUCAST",2026,"M. catarrhalis",48,26,22,26,1
+"EUCAST",2026,"M. tuberculosis",2,2,0,2,1
+"EUCAST",2026,"N. gonorrhoeae",8,8,0,8,1
+"EUCAST",2026,"N. meningitidis",13,13,0,11,1
+"EUCAST",2026,"PK/PD",39,39,0,39,1
+"EUCAST",2026,"Pasteurella spp.",18,9,9,11,1
+"EUCAST",2026,"Prevotella",10,5,5,5,1
+"EUCAST",2026,"Pseudo",47,24,23,20,2
+"EUCAST",2026,"S. pneumoniae",63,43,20,36,1
+"EUCAST",2026,"Staphs",151,83,68,43,12
+"EUCAST",2026,"Stenotrophomonas maltophilia",4,2,2,2,1
+"EUCAST",2026,"Strep A, B, C, G",59,33,26,24,11
+"EUCAST",2026,"Vibrio",240,108,132,12,12
+"EUCAST",2026,"Viridans strept",48,31,17,22,4
+"EUCAST",2026,"WHONET",6,3,3,3,1

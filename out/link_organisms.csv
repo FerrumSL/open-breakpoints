@@ -1,0 +1,197 @@
+"ORGANISM_CODE","ORGANISM_CODE_TYPE","ORGANISM","own_row","TAXONOMIC_STATUS","SCT_CODE","GBIF_TAXON_ID","members","rows","guidelines","year_min","year_max"
+"139","WHONET_ORG_CODE","Vibrio cholerae O139",TRUE,"C","125048009","3222442",NA,100,"EUCAST",2022,2026
+"157","WHONET_ORG_CODE","Escherichia coli O157:H7",TRUE,"C","124994003","6110934",NA,10,"CLSI",2019,2023
+"ABI","GENUS_CODE","Abiotrophia sp.",TRUE,"C","372391001","3227008",2,158,"CLSI",2011,2026
+"ABX","SPECIES_GROUP","Acinetobacter calcoaceticus-baumannii complex",TRUE,"C","82550008","",7,12,"CLSI",2024,2026
+"AC-","GENUS_CODE","Acinetobacter sp.",TRUE,"C","7757008","3223263",21,1158,"CLSI EUCAST",2011,2026
+"ACM","GENUS_CODE","Actinomadura sp.",TRUE,"C","41571004","3225210",2,56,"CLSI",2023,2026
+"AEC","GENUS_CODE","Aerococcus sp.",TRUE,"C","131206005","3227021",5,240,"CLSI EUCAST",2017,2026
+"AER","GENUS_CODE","Aeromonas sp.",TRUE,"C","131207001","3222380",15,774,"CLSI EUCAST",2011,2026
+"AGT","GENUS_CODE","Aggregatibacter sp.",TRUE,"C","","3222246",4,256,"CLSI",2011,2026
+"ALL","ALL","",FALSE,"","","",NA,281,"EUCAST",2013,2020
+"AN+","ANAEROBE+SUBKINGDOM_CODE","Anaerobic Gram positive organisms",TRUE,"C","114257001","",190,277,"EUCAST",2011,2026
+"AN-","ANAEROBE+SUBKINGDOM_CODE","Anaerobic Gram negative organisms",TRUE,"C","114257001","",102,261,"EUCAST",2011,2026
+"ANA","ANAEROBE","Anaerobic organisms",TRUE,"C","114257001","",328,389,"CLSI",2011,2026
+"ASP","GENUS_CODE","Aspergillus sp.",TRUE,"C","115994009","8884233",14,5,"EUCAST",2013,2013
+"BAC","GENUS_CODE","Bacteroides sp.",TRUE,"C","131218001","3222857",12,72,"EUCAST",2022,2026
+"BCS","GENUS_CODE","Bacillus sp.",TRUE,"C","372377007","3227637",13,366,"CLSI EUCAST",2011,2026
+"BCX","SPECIES_GROUP","Burkholderia cepacia complex",TRUE,"C","131281002","3219940",11,14,"CLSI",2024,2024
+"BD-","GENUS_CODE","Bordetella sp.",TRUE,"C","131220003","3219828",8,60,"CLSI EUCAST",2022,2026
+"BR-","GENUS_CODE","Brucella sp.",TRUE,"C","116505000","3220805",6,80,"CLSI",2011,2026
+"BS-","GENUS_CODE","Streptococcus, beta-haemolytic",TRUE,"C","53490009","",0,72,"EUCAST",2011,2012
+"BS-","SPECIES_GROUP","Streptococcus, beta-haemolytic",TRUE,"C","53490009","",16,274,"CLSI EUCAST",2024,2026
+"BSB","WHONET_ORG_CODE","",FALSE,"","","",NA,4,"EUCAST",2013,2013
+"CAM","GENUS_CODE","Campylobacter sp.",TRUE,"C","116457002","3223336",20,120,"CLSI EUCAST",2011,2026
+"CAN","GENUS_CODE","Candida sp.",TRUE,"C","372381007","2518121",35,11,"EUCAST",2013,2026
+"CAR","GENUS_CODE","Cardiobacterium sp.",TRUE,"C","131232004","3222851",2,256,"CLSI",2011,2026
+"CI-","GENUS_CODE","Citrobacter sp.",TRUE,"C","131256000","3221787",14,12,"EUCAST",2021,2026
+"COF","SPECIES_GROUP","",FALSE,"","","",61,280,"CLSI",2011,2026
+"COR","GENUS_CODE","Corynebacterium sp.",TRUE,"O","116463006","3224364",31,220,"EUCAST",2014,2026
+"DET","GENUS_CODE","Dermatophilus sp.",TRUE,"C","131242002","3224263",2,56,"CLSI",2023,2026
+"EBC","FAMILY_CODE","",FALSE,"","","",383,2374,"CLSI EUCAST",2013,2026
+"ECO","SEROVAR_GROUP","Escherichia coli",TRUE,"C","112283007","6110934",23,66,"CLSI EUCAST",2024,2026
+"EIK","GENUS_CODE","Eikenella sp.",TRUE,"C","131247008","3220202",2,128,"CLSI",2011,2018
+"EN-","GENUS_CODE","Enterobacter sp.",TRUE,"C","58683007","3221976",18,12,"EUCAST",2021,2026
+"ENT","GENUS_CODE","Enterococcus sp.",TRUE,"C","2785000","3227372",24,1180,"CLSI EUCAST",2011,2026
+"GCT","GENUS_CODE","Granulicatella sp.",TRUE,"C","414365002","3227165",2,216,"CLSI",2011,2026
+"GEM","GENUS_CODE","Gemella sp.",TRUE,"C","131311005","3227646",3,64,"CLSI",2019,2026
+"GOR","GENUS_CODE","Gordonia sp.",TRUE,"C","131264006","3225515",6,56,"CLSI",2023,2026
+"Gen","","",FALSE,"","","",NA,39,"EUCAST",2021,2021
+"Gen","ALL","",FALSE,"","","",NA,195,"EUCAST",2022,2026
+"HA-","GENUS_CODE","Haemophilus sp.",TRUE,"C","116469005","3219815",13,1498,"CLSI EUCAST",2011,2026
+"HIN","SEROVAR_GROUP","Haemophilus influenzae",TRUE,"C","44470000","3222212",4,867,"CLSI EUCAST",2013,2026
+"KIN","GENUS_CODE","Kingella sp.",TRUE,"C","131313008","3220263",4,232,"CLSI",2011,2026
+"KL-","GENUS_CODE","Klebsiella sp.",TRUE,"C","131269001","3221867",9,14,"EUCAST",2021,2026
+"LAC","GENUS_CODE","Lactobacillus sp.",TRUE,"C","116472003","3223445",18,152,"CLSI",2011,2026
+"LAT","GENUS_CODE","Lactococcus sp.",TRUE,"C","131321002","3227131",6,80,"CLSI",2019,2026
+"LEU","GENUS_CODE","Leuconostoc sp.",TRUE,"C","131329000","3227448",7,72,"CLSI",2011,2026
+"MAX","SPECIES_GROUP","",FALSE,"","","",6,20,"CLSI",2023,2026
+"MIC","GENUS_CODE","Micrococcus sp.",TRUE,"C","116486004","3224623",2,32,"CLSI",2019,2026
+"MOR","GENUS_CODE","Morganella sp.",TRUE,"C","372316007","3222026",3,12,"EUCAST",2021,2026
+"MTX","SPECIES_GROUP","",FALSE,"","","",11,12,"CLSI",2023,2026
+"NFR","GENUS_GROUP","Non-fermenting Gram negative rods",TRUE,"C","243328000","",151,805,"CLSI",2011,2026
+"NME","SEROVAR_GROUP","Neisseria meningitidis",TRUE,"C","17872004","3220226",7,89,"EUCAST",2020,2026
+"NME","WHONET_ORG_CODE","",FALSE,"","","",NA,77,"EUCAST",2013,2019
+"NOC","GENUS_CODE","Nocardia sp.",TRUE,"C","127524009","9582951",14,56,"CLSI",2023,2026
+"NOD","GENUS_CODE","Nocardiopsis sp.",TRUE,"C","131343005","3225023",2,56,"CLSI",2023,2026
+"PAS","GENUS_CODE","Pasteurella sp.",TRUE,"C","131346002","8409122",15,472,"CLSI EUCAST",2011,2026
+"PBI","GENUS_CODE","Parabacteroides spp.",TRUE,"C","","",3,64,"EUCAST",2023,2026
+"PED","GENUS_CODE","Pediococcus sp.",TRUE,"C","419110005","3227014",5,72,"CLSI",2011,2026
+"PLE","GENUS_CODE","Plesiomonas sp.",TRUE,"C","131347006","3222000",2,328,"CLSI",2011,2018
+"PR-","GENUS_CODE","Proteus sp.",TRUE,"C","131275005","3221858",5,24,"EUCAST",2019,2026
+"PRT","GENUS_CODE","Prevotella sp.",TRUE,"C","131397005","3228419",22,50,"EUCAST",2022,2026
+"PRV","GENUS_CODE","Providencia sp.",TRUE,"C","131276006","3221716",7,16,"EUCAST",2019,2026
+"PS-","GENUS_CODE","Pseudomonas sp.",TRUE,"C","116493000","3219881",21,567,"CLSI EUCAST",2011,2026
+"RAO","GENUS_CODE","Raoultella sp.",TRUE,"C","417468005","3221735",4,12,"EUCAST",2021,2026
+"RGM","SPECIES_GROUP","",FALSE,"","","",0,48,"CLSI",2023,2026
+"RHD","GENUS_CODE","Rhodococcus sp.",TRUE,"C","131350009","3224437",3,56,"CLSI",2023,2026
+"SAL","GENUS_CODE","Salmonella sp.",TRUE,"C","372342007","3221815",152,536,"CLSI EUCAST",2012,2026
+"SC+","SPECIES_GROUP","Staphylococcus, coagulase positive",TRUE,"C","127535004","",8,32,"EUCAST",2021,2021
+"SCN","SPECIES_GROUP","Staphylococcus, coagulase negative",TRUE,"C","116197008","",31,261,"EUCAST",2012,2026
+"SE-","GENUS_CODE","Serratia sp.",TRUE,"C","116497004","3221744",14,8,"EUCAST",2024,2026
+"SGM","SPECIES_GROUP","Streptococcus, non-haemolytic (gamma)",TRUE,"C","22339002","",9,40,"CLSI",2023,2026
+"SHI","GENUS_CODE","Shigella sp.",TRUE,"C","116498009","3221853",66,434,"CLSI",2021,2026
+"STA","GENUS_CODE","Staphylococcus sp.",TRUE,"C","116499001","7945561",42,1768,"CLSI EUCAST",2011,2026
+"STP","GENUS_CODE","Streptomyces sp.",TRUE,"C","131364009","2584528",4,56,"CLSI",2023,2026
+"STR","GENUS_CODE","Streptococcus sp.",TRUE,"C","116501009","3223465",66,1429,"CLSI EUCAST",2011,2026
+"SVI","SPECIES_GROUP","Streptococcus viridans, alpha-hem.",TRUE,"C","418909007","",27,1305,"CLSI EUCAST",2011,2026
+"TSK","GENUS_CODE","Tsukamurella sp.",TRUE,"C","131226009","3224474",2,56,"CLSI",2023,2026
+"VI-","GENUS_CODE","Vibrio sp.",TRUE,"C","131373001","6005951",21,379,"CLSI",2019,2026
+"ade","WHONET_ORG_CODE","Achromobacter denitrificans",TRUE,"C","413414001","3219786",NA,36,"EUCAST",2021,2026
+"afl","WHONET_ORG_CODE","Aspergillus flavus",TRUE,"C","66821001","5259820",NA,13,"EUCAST",2019,2026
+"afp","WHONET_ORG_CODE","Aspergillus fumigatus var. phialiseptus",TRUE,"C","127545002","5260010",NA,7,"CLSI",2021,2026
+"afu","WHONET_ORG_CODE","Aspergillus fumigatus",TRUE,"C","32684000","5260010",NA,62,"CLSI EUCAST",2014,2026
+"and","WHONET_ORG_CODE","Aspergillus nidulans",TRUE,"C","60264008","5260160",NA,21,"EUCAST",2019,2026
+"ani","WHONET_ORG_CODE","Aspergillus niger",TRUE,"C","89354002","3465658",NA,13,"EUCAST",2014,2026
+"apl","WHONET_ORG_CODE","Actinobacillus pleuropneumoniae",TRUE,"C","116382001","3222283",NA,20,"CLSI",2011,2020
+"ate","WHONET_ORG_CODE","Aspergillus terreus",TRUE,"C","26406003","5259838",NA,29,"EUCAST",2014,2026
+"axy","WHONET_ORG_CODE","Achromobacter xylosoxidans ss. xylosoxidans",TRUE,"C","413415000","3219795",NA,36,"EUCAST",2021,2026
+"bab","WHONET_ORG_CODE","Brucella melitensis biovar abortus",TRUE,"C","","",NA,51,"EUCAST",2024,2026
+"ban","WHONET_ORG_CODE","Bacillus anthracis",TRUE,"C","21927003","5428037",NA,297,"CLSI EUCAST",2011,2026
+"bca","WHONET_ORG_CODE","Moraxella catarrhalis",TRUE,"C","24226003","4902159",NA,1104,"CLSI EUCAST",2011,2026
+"bce","WHONET_ORG_CODE","Bacillus cereus",TRUE,"C","84408007","5428132",NA,5,"CLSI",2011,2011
+"bcn","WHONET_ORG_CODE","Brucella melitensis biovar canis",TRUE,"C","","",NA,51,"EUCAST",2024,2026
+"bcx","WHONET_ORG_CODE","Burkholderia cepacia complex",TRUE,"C","131281002","3219940",NA,84,"CLSI",2018,2023
+"bma","WHONET_ORG_CODE","Burkholderia mallei",TRUE,"C","113674000","3219954",NA,64,"CLSI",2011,2026
+"bmt","WHONET_ORG_CODE","Brucella melitensis",TRUE,"C","72829003","8874921",NA,51,"EUCAST",2024,2026
+"boi","WHONET_ORG_CODE","Brucella melitensis biovar ovis",TRUE,"C","35049005","5427512",NA,51,"EUCAST",2024,2026
+"bsa","WHONET_ORG_CODE","Streptococcus, beta-haem. Group A",TRUE,"C","115187005","",NA,40,"EUCAST",2011,2026
+"bsb","WHONET_ORG_CODE","Streptococcus, beta-haem. Group B",TRUE,"C","127500001","",NA,79,"EUCAST",2011,2026
+"bsc","WHONET_ORG_CODE","Streptococcus, beta-haem. Group C",TRUE,"C","89181007","",NA,40,"EUCAST",2011,2026
+"bsg","WHONET_ORG_CODE","Streptococcus, beta-haem. Group G",TRUE,"C","75012005","",NA,36,"EUCAST",2011,2011
+"bsu","WHONET_ORG_CODE","Brucella melitensis biovar suis",TRUE,"C","","",NA,51,"EUCAST",2024,2026
+"bvu","WHONET_ORG_CODE","Phocaeicola vulgatus",TRUE,"C","","",NA,64,"EUCAST",2023,2026
+"caj","WHONET_ORG_CODE","Campylobacter jejuni ss. jejuni",TRUE,"C","113524009","7234543",NA,56,"EUCAST",2013,2026
+"cal","WHONET_ORG_CODE","Candida albicans",TRUE,"C","53326005","2599597",NA,172,"CLSI EUCAST",2013,2026
+"cco","WHONET_ORG_CODE","Campylobacter coli",TRUE,"C","40614002","3223358",NA,56,"EUCAST",2013,2026
+"cd+","WHONET_ORG_CODE","Clostridioides difficile, toxin-producing",TRUE,"C","","9290075",NA,16,"EUCAST",2020,2026
+"cd-","WHONET_ORG_CODE","Clostridioides difficile, toxin-nonproducing",TRUE,"C","","9290075",NA,16,"EUCAST",2020,2026
+"cdf","WHONET_ORG_CODE","Clostridioides difficile",TRUE,"C","","9290075",NA,83,"EUCAST",2012,2026
+"cdi","WHONET_ORG_CODE","Citrobacter koseri",TRUE,"C","114264004","3221790",NA,14,"EUCAST",2020,2026
+"cdt","WHONET_ORG_CODE","Corynebacterium diphtheriae",TRUE,"C","5851001","3225001",NA,104,"EUCAST",2023,2026
+"cdu","WHONET_ORG_CODE","Candida dubliniensis",TRUE,"C","115952006","2599529",NA,44,"CLSI EUCAST",2019,2026
+"cgl","WHONET_ORG_CODE","Candida glabrata",TRUE,"C","3265006","2599530",NA,108,"CLSI EUCAST",2013,2026
+"cgr","WHONET_ORG_CODE","Klebsiella granulomatis (Lympho. granul.)",TRUE,"C","417443008","5427608",NA,12,"EUCAST",2021,2026
+"cgu","WHONET_ORG_CODE","Meyerozyma guilliermondii",TRUE,"C","29812000","5893383",NA,45,"CLSI EUCAST",2014,2026
+"ckr","WHONET_ORG_CODE","Issatchenkia orientalis",TRUE,"C","","2599552",NA,90,"CLSI EUCAST",2013,2026
+"cne","WHONET_ORG_CODE","Cryptococcus neoformans",TRUE,"C","67168003","5237368",NA,5,"EUCAST",2022,2026
+"cpa","WHONET_ORG_CODE","Candida parapsilosis",TRUE,"C","61302002","2599539",NA,171,"CLSI EUCAST",2013,2026
+"cpe","WHONET_ORG_CODE","Clostridium perfringens",TRUE,"C","8331005","3226529",NA,60,"EUCAST",2022,2026
+"crs","WHONET_ORG_CODE","Candida auris",TRUE,"C","3491000000000","3479791",NA,7,"CLSI EUCAST",2023,2026
+"ctr","WHONET_ORG_CODE","Candida tropicalis",TRUE,"C","47885008","2599567",NA,161,"CLSI EUCAST",2013,2026
+"cul","WHONET_ORG_CODE","Corynebacterium ulcerans",TRUE,"C","103428000","3224942",NA,104,"EUCAST",2023,2026
+"eae","WHONET_ORG_CODE","Klebsiella aerogenes",TRUE,"C","","9281703",NA,2,"EUCAST",2026,2026
+"eca","WHONET_ORG_CODE","Enterococcus casseliflavus",TRUE,"C","30949009","3227400",NA,6,"EUCAST",2024,2026
+"eco","WHONET_ORG_CODE","Escherichia coli",TRUE,"C","112283007","6110934",NA,86,"CLSI EUCAST",2013,2023
+"ecr","WHONET_ORG_CODE","Eikenella corrodens",TRUE,"C","52591004","3220203",NA,128,"CLSI",2019,2026
+"efa","WHONET_ORG_CODE","Enterococcus faecalis",TRUE,"C","78065002","3227408",NA,125,"CLSI EUCAST",2012,2026
+"efm","WHONET_ORG_CODE","Enterococcus faecium",TRUE,"C","90272000","3227413",NA,63,"CLSI EUCAST",2011,2026
+"ega","WHONET_ORG_CODE","Enterococcus gallinarum",TRUE,"C","53233007","3227410",NA,6,"EUCAST",2024,2026
+"erh","WHONET_ORG_CODE","Erysipelothrix rhusiopathiae",TRUE,"C","48666005","3226082",NA,96,"CLSI",2011,2018
+"fne","WHONET_ORG_CODE","Fusobacterium necrophorum ss. necrophorum",TRUE,"C","113758003","7073656",NA,50,"EUCAST",2022,2026
+"ftu","WHONET_ORG_CODE","Francisella tularensis ss. tularensis",TRUE,"C","91508008","7234538",NA,112,"CLSI",2011,2026
+"hin","WHONET_ORG_CODE","Haemophilus influenzae",TRUE,"C","44470000","3222212",NA,138,"CLSI EUCAST",2011,2021
+"hpi","WHONET_ORG_CODE","Haemophilus parainfluenzae",TRUE,"C","51593004","3222205",NA,523,"CLSI EUCAST",2022,2026
+"hpy","WHONET_ORG_CODE","Helicobacter pylori",TRUE,"C","80774000","3223395",NA,106,"CLSI EUCAST",2011,2026
+"hso","WHONET_ORG_CODE","Histophilus somni",TRUE,"C","433940005","3222243",NA,30,"CLSI",2011,2020
+"kki","WHONET_ORG_CODE","Kingella kingae",TRUE,"C","90422000","5427458",NA,272,"EUCAST",2017,2026
+"kl-","WHONET_ORG_CODE","Klebsiella sp.",TRUE,"C","131269001","3221867",NA,12,"EUCAST",2021,2026
+"kox","WHONET_ORG_CODE","Klebsiella oxytoca",TRUE,"C","40886007","5427612",NA,12,"EUCAST",2021,2026
+"koz","WHONET_ORG_CODE","Klebsiella pneumoniae ss. ozaenae",TRUE,"C","65186004","5427614",NA,12,"EUCAST",2021,2026
+"kpn","WHONET_ORG_CODE","Klebsiella pneumoniae ss. pneumoniae",TRUE,"C","18400002","7234532",NA,36,"CLSI EUCAST",2013,2026
+"kqp","WHONET_ORG_CODE","Klebsiella quasipneumoniae",TRUE,"C","","7606182",NA,12,"EUCAST",2021,2026
+"krn","WHONET_ORG_CODE","Klebsiella pneumoniae ss. rhinoscleromatis",TRUE,"C","17688001","5427616",NA,12,"EUCAST",2021,2026
+"kvi","WHONET_ORG_CODE","Klebsiella variicola",TRUE,"C","431976004","5427618",NA,12,"EUCAST",2021,2026
+"lmo","WHONET_ORG_CODE","Listeria monocytogenes",TRUE,"C","36094007","5428162",NA,234,"CLSI EUCAST",2011,2026
+"mka","WHONET_ORG_CODE","Mycobacterium kansasii",TRUE,"C","1507005","3225185",NA,40,"CLSI",2023,2026
+"mmo","WHONET_ORG_CODE","Morganella morganii ss. morganii",TRUE,"C","243302003","5427641",NA,22,"EUCAST",2019,2026
+"mtu","WHONET_ORG_CODE","Mycobacterium tuberculosis",TRUE,"C","113861009","3225140",NA,19,"EUCAST",2015,2026
+"ngo","WHONET_ORG_CODE","Neisseria gonorrhoeae",TRUE,"C","106566009","3220217",NA,742,"CLSI EUCAST",2011,2026
+"nme","WHONET_ORG_CODE","Neisseria meningitidis",TRUE,"C","17872004","3220226",NA,523,"CLSI EUCAST",2011,2026
+"pae","WHONET_ORG_CODE","Pseudomonas aeruginosa",TRUE,"C","52499004","3223154",NA,800,"CLSI EUCAST",2011,2026
+"pam","WHONET_ORG_CODE","Pasteurella multocida ss. multocida",TRUE,"C","71068007","7234521",NA,220,"CLSI EUCAST",2011,2022
+"pce","WHONET_ORG_CODE","Burkholderia cepacia",TRUE,"C","113669008","3219940",NA,173,"CLSI",2011,2023
+"phe","WHONET_ORG_CODE","Providencia heimbachae",TRUE,"C","47300009","3221723",NA,20,"CLSI",2011,2020
+"pma","WHONET_ORG_CODE","Stenotrophomonas maltophilia",TRUE,"C","113697002","3222372",NA,235,"CLSI EUCAST",2011,2026
+"pmi","WHONET_ORG_CODE","Proteus mirabilis",TRUE,"C","73457008","5427601",NA,26,"EUCAST",2013,2026
+"ppm","WHONET_ORG_CODE","Burkholderia pseudomallei",TRUE,"C","116399000","3219968",NA,194,"CLSI EUCAST",2011,2026
+"pro","WHONET_ORG_CODE","Cutibacterium acnes",TRUE,"C","","9500595",NA,59,"CLSI EUCAST",2015,2026
+"psd","WHONET_ORG_CODE","Staphylococcus pseudintermedius",TRUE,"C","427316000","3227682",NA,39,"CLSI EUCAST",2014,2026
+"saa","WHONET_ORG_CODE","Salmonella Paratyphi A",TRUE,"C","79128009","5427589",NA,8,"CLSI",2023,2026
+"san","WHONET_ORG_CODE","Streptococcus anginosus",TRUE,"C","44304009","3227084",NA,39,"CLSI EUCAST",2020,2026
+"sap","WHONET_ORG_CODE","Staphylococcus saprophyticus ss. saprophyticus",TRUE,"C","113973008","7234581",NA,55,"EUCAST",2012,2026
+"sat","WHONET_ORG_CODE","Salmonella Typhi",TRUE,"C","5595000","5427589",NA,26,"CLSI",2012,2026
+"sau","WHONET_ORG_CODE","Staphylococcus aureus ss. aureus",TRUE,"C","113961008","7234582",NA,587,"CLSI EUCAST",2011,2026
+"sc+","WHONET_ORG_CODE","Staphylococcus, coagulase positive",TRUE,"C","127535004","",NA,309,"CLSI EUCAST",2019,2026
+"sct","WHONET_ORG_CODE","Streptococcus constellatus",TRUE,"C","76199005","",NA,21,"EUCAST",2020,2026
+"sdy","WHONET_ORG_CODE","Streptococcus dysgalactiae ss. dysgalactiae",TRUE,"C","128338004","3227095",NA,7,"CLSI EUCAST",2024,2026
+"sep","WHONET_ORG_CODE","Staphylococcus epidermidis",TRUE,"C","60875001","3227655",NA,31,"CLSI EUCAST",2017,2026
+"sgc","WHONET_ORG_CODE","Streptococcus agalactiae",TRUE,"C","34228005","3227057",NA,23,"CLSI EUCAST",2024,2026
+"shl","WHONET_ORG_CODE","Staphylococcus haemolyticus",TRUE,"C","83452006","3227680",NA,6,"CLSI",2024,2026
+"sin","WHONET_ORG_CODE","Streptococcus intermedius",TRUE,"C","62170002","8820630",NA,21,"EUCAST",2020,2026
+"sit","WHONET_ORG_CODE","Staphylococcus intermedius",TRUE,"C","34605002","3227666",NA,6,"EUCAST",2024,2026
+"slc","WHONET_ORG_CODE","Staphylococcus schleiferi ss. coagulans",TRUE,"C","113974002","3227661",NA,14,"CLSI EUCAST",2021,2026
+"slu","WHONET_ORG_CODE","Staphylococcus lugdunensis",TRUE,"C","103494005","3227663",NA,126,"CLSI EUCAST",2011,2026
+"smg","WHONET_ORG_CODE","Rothia mucilaginosa",TRUE,"C","416544005","5427828",NA,48,"CLSI",2019,2026
+"snv","WHONET_ORG_CODE","Streptococcus, nutritionally variant",TRUE,"C","113715002","",NA,224,"CLSI",2011,2026
+"spn","WHONET_ORG_CODE","Streptococcus pneumoniae",TRUE,"C","9861002","3227089",NA,2469,"CLSI EUCAST",2011,2026
+"spy","WHONET_ORG_CODE","Streptococcus pyogenes",TRUE,"C","80166006","3227092",NA,67,"CLSI EUCAST",2011,2026
+"sqm","WHONET_ORG_CODE","Streptococcus dysgalactiae ss. equisimilis",TRUE,"C","113984001","3227096",NA,4,"EUCAST",2025,2026
+"squ","WHONET_ORG_CODE","Streptococcus equi ss. equi",TRUE,"C","33708000","3227116",NA,4,"EUCAST",2025,2026
+"ssb","WHONET_ORG_CODE","Staphylococcus saprophyticus ss. bovis",TRUE,"C","113972003","3227705",NA,1,"EUCAST",2026,2026
+"ssf","WHONET_ORG_CODE","Staphylococcus schleiferi ss. schleiferi",TRUE,"C","103496007","7234580",NA,28,"CLSI EUCAST",2018,2026
+"sxa","WHONET_ORG_CODE","Streptococcus, beta-haemolytic (not Group A)",TRUE,"C","53490009","",NA,36,"EUCAST",2011,2011
+"szo","WHONET_ORG_CODE","Streptococcus equi ss. zooepidemicus",TRUE,"C","44106000","9684867",NA,4,"EUCAST",2025,2026
+"tcn","WHONET_ORG_CODE","Streptococcus canis",TRUE,"C","88231003","3227060",NA,4,"EUCAST",2025,2026
+"val","WHONET_ORG_CODE","Vibrio alginolyticus",TRUE,"C","45749000","5427674",NA,100,"EUCAST",2022,2026
+"vel","WHONET_ORG_CODE","Vibrio cholerae El Tor",TRUE,"C","24763006","3222442",NA,100,"EUCAST",2022,2026
+"vfl","WHONET_ORG_CODE","Vibrio fluvialis",TRUE,"C","43199008","5427720",NA,100,"EUCAST",2022,2026
+"vhi","WHONET_ORG_CODE","Vibrio cholerae O1 Hikojima",TRUE,"C","302575006","3222442",NA,100,"EUCAST",2022,2026
+"vic","WHONET_ORG_CODE","Vibrio cholerae",TRUE,"C","75953000","3222442",NA,116,"CLSI EUCAST",2011,2026
+"vin","WHONET_ORG_CODE","Vibrio cholerae O1 Inaba",TRUE,"C","302576007","3222442",NA,100,"EUCAST",2022,2026
+"vip","WHONET_ORG_CODE","Vibrio parahaemolyticus",TRUE,"C","11736008","5427673",NA,100,"EUCAST",2022,2026
+"vo1","WHONET_ORG_CODE","Vibrio cholerae O1",TRUE,"C","62987004","3222442",NA,100,"EUCAST",2022,2026
+"vog","WHONET_ORG_CODE","Vibrio cholerae O1 Ogawa",TRUE,"C","414922005","3222442",NA,100,"EUCAST",2022,2026
+"vvu","WHONET_ORG_CODE","Vibrio vulnificus",TRUE,"C","55905000","3222430",NA,100,"EUCAST",2022,2026
+"vx1","WHONET_ORG_CODE","Vibrio cholerae non O1, non O139",TRUE,"C","302575006","3222442",NA,100,"EUCAST",2022,2026
+"yep","WHONET_ORG_CODE","Yersinia pestis",TRUE,"C","54365000","5427631",NA,128,"CLSI",2011,2026

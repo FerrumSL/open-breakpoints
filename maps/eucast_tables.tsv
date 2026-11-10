@@ -1,0 +1,5 @@
+sheet	ORGANISM_CODE	ORGANISM_CODE_TYPE
+Enterobacteriaceae	EBC	FAMILY_CODE
+Pseud	PS-	GENUS_CODE
+Acinetob	AC-	GENUS_CODE
+S.maltophilia	pma	WHONET_ORG_CODE

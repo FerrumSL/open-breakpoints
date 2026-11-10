@@ -1,0 +1,46 @@
+drug	WHONET_ABX_CODE	organisms	note
+Ampicillin	AMP		
+Ampicillin-sulbactam	SAM		
+Amoxicillin	AMX		
+Amoxicillin-clavulanate	AMC		
+Piperacillin	PIP		
+Piperacillin-tazobactam	TZP		
+Ticarcillin	TIC		
+Ticarcillin-clavulanate	TCC		
+Mecillinam	MEC	eco,kpn,pmi	Footnote: E. coli, Klebsiella spp. and P. mirabilis only. WHONET's EUCAST 2013 rows use eco, kpn, pmi
+Cefadroxil	CFR		
+Cefalexin	LEX		
+Cefepime	FEP		
+Cefixime	CFM		
+Cefotaxime	CTX		
+Cefoxitin	FOX		
+Cefpodoxime	CPD		
+Ceftazidime	CAZ		
+Ceftibuten	CTB		
+Ceftriaxone	CRO		
+Cefuroxime	CXM		Footnote 3 (MIC): the breakpoint relates to E. coli, P. mirabilis and Klebsiella spp. only. WHONET's EUCAST 2013 rows use the family (EBC)
+Cefuroxime axetil	CXA		
+Doripenem	DOR		
+Ertapenem	ETP		
+Imipenem	IPM		
+Meropenem	MEM		
+Aztreonam	ATM		
+Ciprofloxacin	CIP		
+Levofloxacin	LVX		
+Moxifloxacin	MFX		
+Nalidixic acid	NAL		
+Norfloxacin	NOR		
+Ofloxacin	OFX		
+Amikacin	AMK		
+Gentamicin	GEN		
+Netilmicin	NET		
+Tobramycin	TOB		
+Minocycline	MNO		
+Tigecycline	TGC		Footnote A (zone): zone diameter breakpoints validated for E. coli only; for other Enterobacteriaceae use an MIC method. WHONET's EUCAST 2013 disk row uses the family (EBC)
+Chloramphenicol	CHL		
+Colistin	COL		
+Fosfomycin iv	FOS		
+Fosfomycin-trometamol	FOS		
+Nitrofurantoin	NIT		Footnote 1/B: breakpoints relate to E. coli only. WHONET's EUCAST 2013 rows use the family (EBC)
+Trimethoprim	TMP		
+Trimethoprim-sulfamethoxazole	SXT		

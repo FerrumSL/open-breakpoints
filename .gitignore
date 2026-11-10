@@ -1,0 +1,11 @@
+sources/*
+!sources/README.md
+out/*
+!out/coverage_*
+!out/link_*
+!out/scale_*
+.venv/
+__pycache__/
+.Rhistory
+.Rproj.user/
+work/

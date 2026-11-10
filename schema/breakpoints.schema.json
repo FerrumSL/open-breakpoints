@@ -1,0 +1,32 @@
+{
+  "name": "breakpoints",
+  "description": "Schema v0. The first 22 fields are the columns of WHONET's Breakpoints.txt, same names and order. The last 3 are ours and are dropped on export.",
+  "fields": [
+    {"name": "GUIDELINES", "type": "string", "constraints": {"required": true}},
+    {"name": "YEAR", "type": "integer", "constraints": {"required": true, "minimum": 1990, "maximum": 2100}},
+    {"name": "TEST_METHOD", "type": "string", "constraints": {"required": true}},
+    {"name": "POTENCY", "type": "string"},
+    {"name": "ORGANISM_CODE", "type": "string", "constraints": {"required": true}},
+    {"name": "ORGANISM_CODE_TYPE", "type": "string", "constraints": {"required": true}},
+    {"name": "BREAKPOINT_TYPE", "type": "string", "constraints": {"required": true}},
+    {"name": "HOST", "type": "string", "constraints": {"required": true}},
+    {"name": "SITE_OF_INFECTION", "type": "string"},
+    {"name": "REFERENCE_TABLE", "type": "string"},
+    {"name": "REFERENCE_SEQUENCE", "type": "string"},
+    {"name": "WHONET_ABX_CODE", "type": "string", "constraints": {"required": true}},
+    {"name": "WHONET_TEST", "type": "string", "constraints": {"required": true}},
+    {"name": "R", "type": "string"},
+    {"name": "I", "type": "string"},
+    {"name": "SDD", "type": "string"},
+    {"name": "S", "type": "string"},
+    {"name": "ECV_ECOFF", "type": "string"},
+    {"name": "ECV_ECOFF_TENTATIVE", "type": "string"},
+    {"name": "DATE_ENTERED", "type": "string", "constraints": {"pattern": "^\\d{4}-\\d{2}-\\d{2}$"}},
+    {"name": "DATE_MODIFIED", "type": "string", "constraints": {"pattern": "^\\d{4}-\\d{2}-\\d{2}$"}},
+    {"name": "COMMENTS", "type": "string"},
+    {"name": "SOURCE_ID", "type": "string", "constraints": {"required": true}},
+    {"name": "SOURCE_LOCATOR", "type": "string", "constraints": {"required": true}},
+    {"name": "STATUS", "type": "string", "constraints": {"required": true, "enum": ["draft", "checked", "reviewed"]}}
+  ],
+  "whonetFields": 22
+}
